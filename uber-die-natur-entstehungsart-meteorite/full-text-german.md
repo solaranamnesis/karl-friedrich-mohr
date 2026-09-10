@@ -4,115 +4,21 @@
 
 (Eingelaufen den 28. October 1875.)
 
-Die einzigen Himmelskörper, weiche wir näher unter-
-suchen können, weil wir sie in der Hand haben, sind die aus
-der Luft berabgefsllenen Steine und Metallinassen , die so-
-genannten Aörolitken oder Meteorsteine. Dafs solche zu ver-
-schiedenen Zeiten und of in grofsen Massen herabgefallen
-sind und dafs diese Ereignisse durch Tausende von Zeugen
-bekundet sind, mag hier an der Spitze stehen.
+Die einzigen Himmelskörper, welche wir näher untersuchen können, weil wir sie in der Hand haben, sind die aus der Luft herabgefallenen Steine und Metallmassen, die sogenannten Aërolithen oder Meteorsteine. Dass solche zu verschiedenen Zeiten und oft in grossen Massen herabgefallen sind und dass diese Ereignisse durch Tausende von Zeugen bekundet sind, mag hier an der Spitze stehen.
 
-Man unterscheidet "zweierlei Arten von Meteoriten :
-steinige und Eisenmassen. Als solche vollkommen getrennt
-sind sie äufserst selten und die überwiegende Mehrzahl ist
-gemischt, d. b. sie besteht aus einer steinigen Masse, welche
-durch metallisches Eisen durchflochten ist, oder aus Eisen-
-massen, welche durch dazwischen krystallisirte Silicatgesteine,
-meistens Olivin, durchsetzt sind. Man nennt sie dann Steine,
-wenn die Silicate vorwiegen, und Eisennassen, wenn der
-Eisenantheil der gröfsere ist. Danach gehören alle Meteorite
-ohne Ausnahme zur selben Art von Weltkörpern; denn es
-kommen solche vor, worin der steinige Antheil von 1 bis
-400 pC. steigt und eben solche Eisenmassen, wo der Eisen-
-sntheil in jedem Procentsatze vorkommt. Das Mehr oder
-W’eniger eines Antheils kann einen Unterschied der Art nicht
-begründen.
+Man unterscheidet zweierlei Arten von Meteoriten: steinige und Eisenmassen. Als solche vollkommen getrennt sind sie äufserst selten und die überwiegende Mehrzahl ist gemischt, d. h. sie besteht aus einer steinigen Masse, welche durch metallisches Eisen durchflochten ist, oder aus Eisenmassen, welche durch dazwischen krystallisirte Silicatgesteine, meistens Olivin, durchsetzt sind. Man nennt sie dann Steine, wenn die Silicate vorwiegen, und Eisenmassen, wenn der Eisenanteil der grössere ist. _Danach gehören alle Meteorite ohne Ausnahme zur selben Art von Weltkörpern_; denn es kommen solche vor, worin der steinige Anteil von 1 bis 100 pC. steigt und eben solche Eisenmassen, wo der Eisenanteil in jedem Prozentsatze vorkommt. Das Mehr oder Weniger eines Anteils kann einen Unterschied der Art nicht begründen.
 
-Der steinige Antheil bildet eine meistens unscheinbare
-graue por5se Masse. welche nur selten deutliche Mineral-
-individuen erkennen läfst. Unter diesen ist vorzugsweise der
-Olivin erkannt worden und zwar selir deutlich m der be-
+Der steinige Anteil bildet eine meistens unscheinbare graue poröse Masse, welche nur selten deutliche Mineralindividuen erkennen lässt. Unter diesen ist vorzugsweise der Olivin erkannt worden und zwar sehr deutlich in der berühmten Pullas'schen Masse. Dann hat men noch Augit, Anorthit, Silicate von Bittererde, Kalk, Eisenoxydul, Manganoxydul, Tonerde, Kali und Natron, die von Säuren nicht zersetzt werden, gefunden, Chromeisen, Magneteisen, Schwefeleisen. Das sind Alles nicht nur Elemente, sondern auch Verbindungen, welche auf unserer Erde vorkommen und welche uns gestatten, die Erfahrungen von diesen Mineralien auf der Erde auch auf die Meteorsteine versuchsweise anzuwenden. Ganz besonders fordert uns dazu der Olivin auf, der in den meisten Meteoriten vorhanden ist. Der Olivin ist ein sehr feuerbeständiges Mineral, welches durch Schmelzen schwarz wird, wie alle eisenoxydulhaltigen Silicate und dann durch keine noch so langsame Erkältung diese schwarze Farbe wieder ablegt. Der Olivin kommt ferner auf der Erde ganz innig verwachsen mit kohlensaurem Eisenoxydul und kohlensaurem Kalk vor, in ausgezeichnetem Masse im Basalt des Siebengebirges. Aus beiden Tatsachen folgt, dass der irdische Olivin nur auf nassem Wege entstanden sein könne. Nun zeigen auch die Meteoriten eine schwarze Brandrinde von der Dicke eines Papieres, und auf frischem Bruche solcher Gesteine kann man durch rasches Gebläsefeuer und die Knallgasflamme ebenfalls diese Brandrinde erzeugen. Es verhalten sich also die meteorischen Olivine genau wie die irdischen und es folgt, dass der _innere Teil der nur mit einer Brandrinde umgebenen Meteorite selbst nicht geschmolzen gewesen sein kann_.
 
+Nach diesem Resultate war es wahrscheinlich, dass die steinigen Meteorite ebenfalls eine kleine Menge Wasser in Poren eingeschlossen entielten, wie die irdischen, durch Metamorphose entstandenen Minerale. Ich wendete mich dieserhalb zuerst an den verdienstvollen Meteoritenforscher Freiherrn von Reichenbach in Wien, welcher nicht bloss Sammler war, sondern auch das Opfer eines Steines nicht scheute, wenn es galt eine neue Tatsache zu erforschen. Er liess durch Prof. Ludwig in Wien ein Stück von dem bei Parnallee is Ostindien gefallenen Meteorit in diesem Sinne untersuchen. Das bei 100° C. getrocknete Pulver zeigte bei 160° nur eine sehr unbedeutende Gewichtsabnahme. Beim Glühen im trockenen Kohlensäurestrom und Auffangen des Wassers in entwässertem Kupfervitriol, was ich vorgeschlagen hatte, ergab sich ein Gewichtsverlust von 1,149 pC. und der Kupfervitriol wurde deutlich blau, so dass die Natur des Wassers unzweifelhaft feststand. Dieses meine Ansicht bestätigende Resultat bestimmte mich, den Gegenstand weiter zu verfolgen, wobei die grösste Schwierigkeit in Beschaffung des Stoffes bestand.*
 
-rühmten Pullas’schen Masse. Dann hat men noch Augit,
-Anvorthit, Silicate von Bittererde, Kalk, RisenoxyJul, Mandn-
-oxydul, Tbonerde, Kali und Natron, die von Säuren nicht
-zersetzt werden, gefunden, Chromeisen, Magneteisen, Schwefel-
-eisen. Das sind Alles nicht nur Elemente, sondern auch Ver-
-bindungen, welche auf unserer Erde vorkommen und weiche
-uns gestatten, die Erfahrungen von diesen: Mineralion auf der
-Erde auch auf die Meleursteise versuchsweise anzuwenden.
-Ganz besonders fordert uns dazu der Olivin auf, der in Jen
-meisten Meteoriten vorhanden ist. Der Olivin ist ein schr
-feuerbeständiges Mineral, welches durch Schmelzen schwarz
-wird, wie alle eisenoxydulkaltigen Silicate ‘und dann durch
-keine noch so laupysume Erkullung diese schwarze Farbe
-wieder ablegt. Der Olivin kommt ferner auf der Erde ganz
-innig verwachsen sit kohlensaurem Eisenoxydul und kollen-
-seurem Kalk vor, in ausgezeichnetem Mafse im Basalt des
-Siebengebirges. Aus. beiden Thatsachen folgt, dafs der irdische
-Olivin nur auf nassem Were entstanden. sein könne. Nun
-zeigen auch die Metcoriien eine schwarze Brandrinde von der
-Dicke eines Papieres, und auf frischem Bruche solcher Ge-
-steine kann man durch rasches Gebläsefeuer und die Knall-
-gasflamme ebenfalls diese Brandrinde erzeugen. Es verhalten
-sich also die melegrischen Olivine genau wie die irdischea
-und es folgt, dafs der innere Theil der nur mis einer Brand.
-rinde umgebenen Meteorite selbst nicht geschmolzen gewesen
-sein kann.
+*) Von Hrn. Dr. Krantz erheilt ich Tolucca und Pultusk; von Hrn. Gustav Rose erhielt ich aus der Berliner Sammlung Proben von Misteca, Bahia, Schwetz, Zacatecas, Alais, Durango und Seeläsgen; Hr. Prof. Tschermak, Director der Wiener Sammlung, sandte mir mit grosser Bereitwilligkeit kleine Proben von Bohumiliz, Stannern, Meso-Madaras, Agram, l'Aigle, Arva, Agen, Braunau (= Hauptmannsdorf), Salès und Cap. Für die Sicherheit der Bezeichnung war demnach kein Zweifel. Hrn. Prof. Tschermak kann ich hier meinen besten Dank aussprechen, da die beiden ersten Herren leider nicht mehr am Leben sind.
 
-Nach diesem Resullate wur es wahrscheinlich. dafs die
-steinigen Meteorite ebeufulls eine kleine Menge Wusser in
-Poren eingeschlossen enthielten, wie die irdischen, duroh Meta-
-morphose entstandenen Minerale. Ich wendete mich dieserhalb
-zuerst an dei verdienstvollen Meteoritenforscher Freiherra
-von Reichenbach in Wien, welcher nicht blofs Sammler
-wur, sundera auch das Opfer eines Steines nicht scheute,
-
-
-
-wenn es galt eine neue Thatsache zu erforschen. Er liefs
-durch Prof. Ludwig in Wien ein Stück von dem bei Parnallee
-is Ostindien gefallenen Meteorit in diesem Sinne untersuchen.
-Das bei 100° C ‚getrocknete Pulver zeigte bei 160% nur eine
-sehr unbedeutende Gewichtsabnahme. Beim Glühen im trocke-
-nen Kohlensäurestrom und Auflangen des Wassers in ent-
-. wässertem Kupfervitriol, was ich vorgeschlagen hatte ergab
-sich ein Gewichtsverlust von 1,149 pC. und der Kupfervitriol
-worde deutlich blau, so dafs die Nalır des Wassers un-
-zweifelhaft feststand. Dieses meine Ansicht bestätigende Re-
-sultat bestimmte mich, den Gegenstand weiter zu verfolgen,
-wobei die gröfste Schwierigkeit in Beschaffung des Stoffes
-bestand *). \
-
-Ich legte einen besonderen Werth darauf, Jas Wasser
-jedesmal als tropfbar-flüssig. zu sehen. Zu dem Zwecke
-wurde-eino an einem Ende zugeschmolzene Glasröhre heifs
-ausgetrocknet und dann genau gewogen; sodann wuru@ der
-Meteorstein in kleinen Stücken, nachdenı er über Nacht unter
-der Chlorcalciumglocke gestanden , eingebracht und das (e-
-wicht des Ganzen bestimmt; dann wurde allmälig bis zum
-Glühen erhitzt, wobei sich das Wasser in der horizontat
-liegenden Röhre deutlich als Tropfen ansetzie. Es wurde
-pun die ganze Glasröhre erwärmt und durch eine eingesteckte
-Glasröhre das Wasser ausgesaugt und wieder gewogen.
-
-*) Von Hm. Dr. Krants erhleit ich Tolusca und Pltuck ; von
-Hm. Gustav Rose erhielt ich aus dor Berliner Bammlung
-Proben von Misteca, Bahia, Schwotz, Zacateoas, Alais, Durango
-and Beeläsgen; Hr. Prof. Tsohormak,.Director der Wiener
-Sammlung, sandte mir mit grofser Bereitwilligkeit kleine Proben
-von Bohumills, Stannern, Meso-Madaras, Agram, l'Aigle, Arva,
-Agen, Braunau (== Hauptmannsdorf), Salds und Cap. Für die
-Bicberheit der Bezeichnung war demnsch kein Zweifel. Hrn. Prof.
-Tschermak kann ich hier meinen besten Dank aussprechen, da
-die beiden ersten Hicrren leider nicht mehr aın Leben sind.
-
-
-
-
-Daraus ergab sich der Wassergehalt, der dann in Procente
-umgerechnet wurde.
+Ich legte einen besonderen Wert darauf, das Wasser
+jedesmal als tropfbar-flüssig zu sehen. Zu dem Zwecke
+wurde eine an einem Ende zugeschmolzene Glasröhre heiss
+ausgetrocknet und dann genau gewogen; sodann wurde der
+Meteorstein in kleinen Stücken, nachdem er über Nacht unter der Chlorcalciumglocke gestanden, eingebracht und das Gewicht des Ganzen bestimmt; dann wurde allmälig bis zum Glühen erhitzt, wobei sich das Wasser in der horizontal liegenden Röhre deutlich als Tropfen ansetzte. Es wurde nun die ganze Glasröhre erwärmt und durch eine eingesteckte Glasröhre das Wasser ausgesaugt und wieder gewogen. Daraus ergab sich der Wassergehalt, der dann in Prozente umgerechnet wurde.
 
 Ueber die näheren Details, Analysen und iiteratur ver-
 weise. ich auf die verdienstvolle Zusammenstellung des Ma-
@@ -131,7 +37,7 @@ Buchner, S. 82.
 
 metallischen Eisen. .
 
-L’Asgle, Normandie, grfullen am 26. April 1803. Jener
+L'Asgle, Normandie, grfullen am 26. April 1803. Jener
 berühmte Fall, welcher zuerst die französische Academie um-
 stimmte; Buchner, S. 15.
 
@@ -202,7 +108,7 @@ schwarze Brandrinde anschmelzen. Dieser Stein ist porös
 
 und enthält 9,84 pC. Hohlräume vom Volum des Ganzen.
 Pultusk zeigte natürlich das spec. Gewicht 3,658; nach
-dem Schmelzen 3,512, also eine Abnahme am’ spec. Gewicht
+dem Schmelzen 3,512, also eine Abnahme am' spec. Gewicht
 
 
 
@@ -231,7 +137,7 @@ Steins zu einem Giase verschmolzen, das seine schwarze
 Farbe vom Eisenoxydul ableitet. Bei dem Steine von Stan-
 nern hat man an eincın von der Brandrindı vollkommen be-
 freiten Stücke die schwarze Kruste durch Einlegen in hefliges
-Schmiedofeuer nachgeahmt , und ich habe an demselben Me-
+Schmiedofeuer nachgeahmt, und ich habe an demselben Me-
 teorit durch das Knallgasgebläse. diese schwarze Rinde voll-
 konmen der natürlichen ähnlich, nur glänzender erzeugt.
 
@@ -265,12 +171,12 @@ entschieden worden. Ebenso will Th. Andrews in Be-
 salten metallisches Eisen durch Kupfervitriol nachgewiesen
 haben. Unmöglich ist es nicht, dafs unter günstigen Ver-
 hältnissen Eisenoxyd durch organische Körper auch zu Metall
-redueirt werden könne , so wie es meist nur zu Magnetcısen
+redueirt werden könne, so wie es meist nur zu Magnetcısen
 gebildet erscheint.
 
 Das eine in Thüringen gefundene Risen **)., welches frei
 von Nickel war, läfst allerdings einen irdischen Ursprung
-verinuthen, doch ist dieser Fall nicht hinreichend , eıne 80
+verinuthen, doch ist dieser Fall nicht hinreichend, eıne 80
 heikle Frage zu entscheiden. Die Meteorite enthalten aber
 ganz entschieden metallisches Eisen oder bestehen ganz
 daraus, und es fragt sıch, in welcher Weise dasselbe ent-
@@ -292,7 +198,7 @@ Eisens unmöglich wäre. Nun ist aber die Entstehung dcs
 Olivins auf nassem Wege durch seinen Gehalt an Wasser,
 durch die Abnahme des spec. Gewichts durch Schmelzen,
 durch das Fehlen der schwarzen Schmelzferbe auf das Be-
-stimmteste nachgewiesen , und es folgt daraus, dafs auch das
+stimmteste nachgewiesen, und es folgt daraus, dafs auch das
 Eisen auf nasseın Wege, d. h. bei niederer Temperatur ent-
 standen sein müsse. Das kann eigentlich nur durch orga-
 nische, Kohlenstoff und Wasserstoff enthaltende Körper ge-
@@ -331,7 +237,7 @@ Dasselbe wurde durch eine schief liegende Glasröhre geführt,
 welche mit ammoniakalischer Silberlösung gefüllt war, um
 Schwefelwassersto® aufzunehmen. Der betreffende Apparat
 ist in meinem Lehrbuch der Titrirmethode (4. Aufl., S. 641
-und 642) und in Fresenius’ Zeitschrift f. anal. Chemie
+und 642) und in Fresenius' Zeitschrift f. anal. Chemie
 (7, 182) abgebildet. Das Gas wurde dann aus dem Gaso-
 meter durch Druck ausgetrieben ‚und an einer Platinspitze
 entzündet, schnell in einen mit kohlensäurefreier Luft ge-
@@ -390,7 +296,7 @@ Eisen zeigt. Die Analyse ergab :
 0,787 „ Bchreiberait
 100,000. .
 
-Die Analyse hat keine solche Bedeutung , wie die ein-
+Die Analyse hat keine solche Bedeutung, wie die ein-
 fache Thatsache, dafs das Meteoreisen kohlenfrei war.
 
 Seeläsgen, bei Buchner S. 178. Gefundene Eisenmasse
@@ -463,7 +369,7 @@ späne in genügender Menge von Prof. Tschermak erhalten.
 ‚geruchloses Gas; 2,1 pC. Schreibersit ; 8,17 pC. Nickel.
 
 Misteca in Mexico, bei Buchner S. 148. Ich hatte
-5,26 Girm. Späne von’ G. Rose; davon wurden 3 Grm. ver-
+5,26 Girm. Späne von' G. Rose; davon wurden 3 Grm. ver-
 wendet. 4200 CC. Gas; davon 1100 CC. verbrannt, ohne die
 geringste Trübung des Barytwassers; 2,56 pC. Schreibersit ;
 7,67 pC. Nickel.
@@ -537,7 +443,7 @@ Erscheinung erklärt sich durch die analoge des galvanisch
 gefällten Kupfers. Dieses ist zunächst sehr hart und spröde,
 wird aber durch Ausglüken weich und hämmerbar. Die aus
 einer Flüssigkeit bei niedriger Temperatur erlangte Cohäsion
-ist gröfser als die nach Glühen noch zurückgebliebene , wie
+ist gröfser als die nach Glühen noch zurückgebliebene, wie
 bei Kieselerde und Silicaten.
 
 Graham beobachtete, dafs Meteoreisen bei hoher Ten-
@@ -640,7 +546,7 @@ tete. Nur langsam lösten sich die Wasserbläscheu zu durch-
 
 . sichtigem Gase auf. Feste Körper von Silicaten. oder Eisen-
 massen konnten auch ia der feinsten Vertheilung - nicht
-ı/, Stunde lang an derselben Stelle verbleiben , wie es die
+ı/, Stunde lang an derselben Stelle verbleiben, wie es die
 Erscheinung that.
 
 Am 29. März 18438" wurde. in Oderberg eine Feuerkugel
@@ -722,7 +628,7 @@ Vulkane schmelzbar und kann auch nicht bei Windstille
 auf des Deck fiel. Heinrich Rosg erklärte diese Kägel-
 chen für das, was sie sind, für die Verbrennungsproducte
 von metallischem Eisen in sunerstoffhaltiger Lu, erkennbar
-durch den Hohlraum , der an einem spilz ausgezogenen Ende
+durch den Hohlraum, der an einem spilz ausgezogenen Ende
 durch Platzen sich Luft machte. \
 
 Alle im eigentlichsten Sinne in Asgranti erisppten Eisen-
@@ -795,7 +701,7 @@ Schwefeleisen enthält, durch Schmelzen rothbrüchig wird;
 12) dafs das Meteoreisen im sauerstofffreien Raume zur
 Weifsgluth erhitzt Wasserstoff entwickelt;
 
-13) die Widmannstätten’schen Figuren als Zeichen
+13) die Widmannstätten'schen Figuren als Zeichen
 einer ruhigen Krystallisation ;
 
 14) durch Deduction erschlossen, dafs das Meteoreisen
@@ -856,13 +762,13 @@ Von dem Sternschnuppenfall des 27. November 1872
 ; berichten Galle in Breslau und Förster in Berlin (Pogg.
 Annslen 348, 172), dafs es keinem Zweifel unterliege, dafs
 derselbe aus zerstreuten, der Erde begagnenden Partikeln des
-Biela’schen Kometen bestanden habe, der bei seiner sieben-
+Biela'schen Kometen bestanden habe, der bei seiner sieben-
 jährigen Umlaufszeit gerade im Jahre 1872 Anfangs Sep-
 
 ' tember ‘durch diesen Punkt seiner Bahn und am Anfang
 October durch seine Sonnennähe gegangen ist. Die Erde ging
 nämlich. gerade am 27. November 1873 am Abend durch die
-‚Bahnebene des Biela’schen Kometen, und die Richtung, nach
+‚Bahnebene des Biela'schen Kometen, und die Richtung, nach
 welcher die Sternschnuppen sich bewegten, stimmte fast inner-
 halb eines Grades mit jener überein, in welcher solche Kör-
 per, die in dieser Bahn wandeln, in die Erdatmosphäre ein-
@@ -916,11 +822,11 @@ der Erde . . . = 5,6
 des Mars . . . = 53
 des Jupiter . . = 1,25
 des Satum . . = 0,72
-des Uranus . . ==’ 0,92.
+des Uranus . . ==' 0,92.
 
 
 Nehmen ‘wir nun für den: zwischen Mars und Jupiter
-fetlenden’ Planeten : das arithmetische Mittel, so haben wir
+fetlenden' Planeten : das arithmetische Mittel, so haben wir
 53 + 1,28 5 125 _ 3,275, welches das specifsche Gewicht der
 meisten Meteorite ist, namentlich der Steinmeteorite, von denen
 nach Reichenbach 100 auf eine Eisenmasso kommen.
@@ -989,5 +895,5 @@ schwarzer Punkte habe vorüberziehen sehen. Zwei andere
 und vom 12. Mai 1706 berichtet, wo im letzten Falle Vormittags
 um 30 Uhr eine solche Dunkelheit eintrat, dafs die Fledermäuse
 zu fliegen anfingen und man Kerzen habe anzünden müssen.
-Auch diese Vorgänge lassen sich in keiner anderen Weise’
+Auch diese Vorgänge lassen sich in keiner anderen Weise'
 erklären (Arago, Astronomie 4, 321).
