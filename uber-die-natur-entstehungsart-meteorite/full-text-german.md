@@ -14,241 +14,71 @@ Nach diesem Resultate war es wahrscheinlich, dass die steinigen Meteorite ebenfa
 
 *) Von Hrn. Dr. Krantz erheilt ich Tolucca und Pultusk; von Hrn. Gustav Rose erhielt ich aus der Berliner Sammlung Proben von Misteca, Bahia, Schwetz, Zacatecas, Alais, Durango und Seeläsgen; Hr. Prof. Tschermak, Director der Wiener Sammlung, sandte mir mit grosser Bereitwilligkeit kleine Proben von Bohumiliz, Stannern, Meso-Madaras, Agram, l'Aigle, Arva, Agen, Braunau (= Hauptmannsdorf), Salès und Cap. Für die Sicherheit der Bezeichnung war demnach kein Zweifel. Hrn. Prof. Tschermak kann ich hier meinen besten Dank aussprechen, da die beiden ersten Herren leider nicht mehr am Leben sind.
 
-Ich legte einen besonderen Wert darauf, das Wasser
-jedesmal als tropfbar-flüssig zu sehen. Zu dem Zwecke
-wurde eine an einem Ende zugeschmolzene Glasröhre heiss
-ausgetrocknet und dann genau gewogen; sodann wurde der
-Meteorstein in kleinen Stücken, nachdem er über Nacht unter der Chlorcalciumglocke gestanden, eingebracht und das Gewicht des Ganzen bestimmt; dann wurde allmälig bis zum Glühen erhitzt, wobei sich das Wasser in der horizontal liegenden Röhre deutlich als Tropfen ansetzte. Es wurde nun die ganze Glasröhre erwärmt und durch eine eingesteckte Glasröhre das Wasser ausgesaugt und wieder gewogen. Daraus ergab sich der Wassergehalt, der dann in Prozente umgerechnet wurde.
+Ich legte einen besonderen Wert darauf, das Wasser jedesmal als tropfbar-flüssig zu sehen. Zu dem Zwecke wurde eine an einem Ende zugeschmolzene Glasröhre heiss ausgetrocknet und dann genau gewogen; sodann wurde der Meteorstein in kleinen Stücken, nachdem er über Nacht unter der Chlorcalciumglocke gestanden, eingebracht und das Gewicht des Ganzen bestimmt; dann wurde allmälig bis zum Glühen erhitzt, wobei sich das Wasser in der horizontal liegenden Röhre deutlich als Tropfen ansetzte. Es wurde nun die ganze Glasröhre erwärmt und durch eine eingesteckte Glasröhre das Wasser ausgesaugt und wieder gewogen. Daraus ergab sich der Wassergehalt, der dann in Prozente umgerechnet wurde.
 
-Ueber die näheren Details, Analysen und iiteratur ver-
-weise. ich auf die verdienstvolle Zusammenstellung des Ma-
-terials von Dr. Otto Buchner, in seiner Schrift „die Me-
-teoriten in Sammlungen, Leipzig 1863.*
+Über die näheren Details, Analysen und Literatur verweise ich auf die verdienstvolle Zusammenstellung des Materials von Dr. Otto Buchner, in seiner Schrift "die Meteoriten in Sammlungen, Leipzig 1863."
 
-Stannern, Mähren, gefallen 22. Mai 1808; Buchner,
-S. 33.
+_Stannern_, Mähren, gefallen 22. Mai 1808; Buchner, S. 23.
 
-"4904 Grm. Bubetans verloren 0,014 Wasser == 0,285 pC.
+4,904 Grm. Substanz verloren 0,014 Wasser = 0,285 pC.
 
-Meso-Madaras, Siebenbürgen, gefallen 4. Sept. 1852;
-Buchner, S. 82.
+_Mezo-Madaras_, Siebenbürgen, gefallen 4. Sept. 1852; Buchner, S. 82.
 
-3,411 Grm, Srhstans geben 0,024 Wasser = 0,995 pCt. Enthält
+2,411 Grm. Substanz gaben 0,024 Wasser = 0,995 pCt. Enthält metallisches Eisen.
 
-metallischen Eisen. .
+_L'Aigle_, Normandie, gefallen am 26. April 1803. Jener berühmte Fall, welcher zuerst die französische Academie umstimmte; Buchner, S. 15.
 
-L'Asgle, Normandie, grfullen am 26. April 1803. Jener
-berühmte Fall, welcher zuerst die französische Academie um-
-stimmte; Buchner, S. 15.
+3,284 Grm. Substanz gaben 0,047 Wasser = 1,430 pC.
 
-3,164 rm. Bubstanz gaben 0,047 Wasser == 1,480 pC.
+_Pultusk_, Polen, gefallen am 30. Januar 1868.
 
-Pultusk, Polen, gefallen am 30. Januar 1868. .
+4 Grm. Substanz gaben 0,039 Wasser = 0,866 pC.
 
-4 Grm. Substanz gaben 0,089 Wasser == 0,866 pC.
+_Agen_, Departement Lot et Garonne, gefallen 5. September 1814. Buchner, S. 35.
 
-Agen, Departement Lot et Garonne, gefallen 5. September
-4814. Buchner, S. 35.
+1,648 Grm. Substanz gaben 0,011 Wasser = 0,667 pC.
 
-1,848 Grm. Sabstans gaben 0,011 Wasser = 0,667 pC. .
+_Salès_, Departement Rhône, gefallen 8. März 1798; Buchner, S. 13.
 
-Salös, Departement Rhöne, gefallen 8. März 1798;
-Buchner, S.13. :
+3,4932 Grm. Substanz gaben 0,021 Wasser = 0,601 pC.
 
-8,4983 Grm. Bubstans gaben 0,021 Wasser = 0,601 pC.
+Demnach enthalten alle diese Gesteine kleine Mengen Wasser, wie die irdischen Silicate, und wahrscheinlich zuerst etwas mehr, weil alle in sehr trockenen Kabinetten lange aufbewahrt waren und das nicht chemisch gebundene Wasser zum Teil schon vorher diffundirt war.
 
-Demnach enthalten alle diese Gesteine kleine Mengen
-Wasser, wie die irdischen Silicate, und wahrscheinlich zuerst
-etwas mehr, weil alle in sehr trockenen Cabinetten lange auf-
-bewahrt waren und das nicht chemisch gebundene Wasser
-zum Theil schon vorher diffundirt war.
+Es liess sich nun auch mit Bestimmtheit voraussehen, dass die Steinmeteoriten, welche bis jetzt ausschliefslich aus Silikaten bestehen, durch Schmelzen diejenige Einbusse an spez. Gewicht zeigen würden, wie die Silikate der Erde überhaupt. Der Versuch wurde in der Art angestellt, dass der Stein, nachdem er schon zur Bestimmung des Wassers eine gelinde Glühhitze ausgestanden, im Stahlmörser gröblich gepulvert in der hydrostatischen Wage in einer ganz in Wasser schwebenden Glasröhre ausgekocht und gewogen und nachher das absolute Gewicht durch Eindampfen in einer Platinschale bestimmt wurde. Die Differenz beider Wägungen gab das Gewicht eines gleichen Volums Wasser, womit in das absolute Gewicht dividirt wurde, um das spezifische zu erhalten. Dann wurde das trockene Steinpulver auf der Kohle mit einer durch Sauerstoff angeblasenen Ätherflamme geschmolzen und nach dem Pulvern in gleicher Weise das spez. Gewicht des geschmolzenen Steines bestimmt. Die Kleinheit der vorhandenen Proben nötigte alle Bestimmungen an demselben Stücke zu machen. Da aber die Silicate überhaupt sehr schwer schmelzbar waren, so konnte das spez. Gewicht bei der ersten schwachen Glühung nicht viel verändert worden sein. Vor der Wasserbestimmung durfte aber nicht in Wasser gewogen werden, weil diess einen Einwand gegen die Wasserbestimmung abgegeben hätte.
 
-Es liefs sich nun auch mit Bestimmtheit voraussehen,
-dafs die Steinmeteoriten, welche bis jetzt ausschliefslich aus
-Silicaten bestehen, durch Schmelzen diejenige Einbufse an
-sper. Gewicht zeigen würden, wie die Silicate der Erde über-
+_Agen_, s. o., spez. Gewicht vor dem Schmelzen 3,521  
+_Agen_, s. o., spez. Gewicht nach dem Schmelzen 3,381  
+Abnahme 0,140
 
-
-
-haupt. Der Versuch wurde in der Art angestellt, dafs der
-Stein, nachdem er schon zur Bestimmung des Wassers eine
-gelinde Glühhitze ausgestanden, im Stahlmörser gröblich ge-
-pulvert in der bydrosislischen Wage ia eımer ganz in
-Wasser schwebenden Glasröhre ausgekocht und gewogen und
-nachher. das absolute Gewicht durch Eindampfen in einer
-Platinschale bestimmt wurde. Die Diflerenz beider Wägungen
-gub das Gewicht eines gleichen Volums Wasser, womit in das
-ubsolute Gewicht dividirt wurde, um das specifische zu er-
-halten. Daun wurde das trockene Steinpulver auf der Kohle
-mit einer durch Sauerstoff angeblasenen Aetherflamme ge-
-schmolzen und nach dem Pulvern in gleicher Weise das spec.
-Gewicht des geschmoizeneu Steines bestimmt. Die Kleinheit
-der vorlıandenen Proben nöthigte alle Bestimmungen an dem-
-selben Stücke zu machen. Da aber die Silicate überhaupt
-sehr schwer schmelzbar waren, so konnte das spec. Gewicht
-bei der ersten schwachen Glühung nicht viel verändert
-worden sein. Vor der Wasserbestimmung durfic aber nicht
-in Wasser gewogen werden, weil diefs einen Einwand gegen
-die Wasserbestimmung abgegeben hätte.
-
-Agen, 5. 0., spec. Gewicht vor dem Schmelzen 3,521
-
-» n nach „ „ 3,381
-
-. Abnahme 0,140
-
-Sales, S.0., spec; Gewicht vor dem Schmelzen 3,589
-
-» „ mal „ » 3,412
-
+_Salès_, s. o., spez. Gewicht vor dem Schmelzen 3,589  
+_Salès_, s. o., spez. Gewicht nach dem Schmelzen 3,412  
 Abnahme 0,177
-Stannern zeigte keine Gewichtsabnahme nach dem Schmel-
-zen; es liefs sich aber im Sauerstoffgebläse sehr leicht eine
-schwarze Brandrinde anschmelzen. Dieser Stein ist porös
 
-und enthält 9,84 pC. Hohlräume vom Volum des Ganzen.
-Pultusk zeigte natürlich das spec. Gewicht 3,658; nach
-dem Schmelzen 3,512, also eine Abnahme am' spec. Gewicht
+_Stannern_ zeigte keine Gewichtsabnahme nach dem Schmelzen; es liess sich aber im Sauerstoffgebläse sehr leicht eine schwarze Brandrinde anschmelzen. Dieser Stein ist porös und enthält 9,84 pC. Hohlräume vom Volum des Ganzen.
 
+_Pultusk_ zeigte natürlich das spez. Gewicht 3,658; nach dem Schmelzen 3,512, also eine Abnahme am spez. Gewicht von 0,146. Auch G. vom Rath bemerkt in seiner Monographie dieses Meteorits (S. 19), dass das spez. Gewicht des geschmolzenen Steins ein geringeres sei, als dasjenige des krystallinischen Steins, muss aber als Plutonist darauf verzichten, davon einen Grund anzugeben.
 
+Alle diese Tatsachen sprechen dafür, dass die Steinmeteoriten auf demselben Wege wie die irdischen Silicatgesteine entstanden seien. Sie haben mit einigen derselben, den Trachyten und Trachydoleriten, eıne unverkennbare Ähnlichkeit und würden auf der Erde aufgerafft gar nicht als Meteorite zu erkennen sein, wenn sie nicht die zwei ihnen eigentümlichen Erscheinungen der Brandrinde und des eingesprengten metallischen Eisens besässen.
 
-von 0,146. Auch G. vom Rath bemerkt in seiner Mono-
-graphie dieses Meteorits (S. 19), dafs das spec. Gewicht des
-geschmolzenen Steins ein geringeres sei, als dasjenige des
-krystallinischen Steins, mufs «der als Plutonist darauf ver-
-zichten, davon einen Grund anzugeben.
+Die Brandrinde der Steinmeteorite besteht aus einem dünnen geschmolzenen Glase, oft wie das feinste Papier, bei einigen erscheint sie stellenweise derber, auch ungleich verteilt bis zu 2 MM. Dicke. Diese Rinden sind oft untersucht worden und bestehen aus sämmtlichen Bestandteilen des Steins zu einem Glase verschmolzen, das seine schwarze Farbe vom Eisenoxydul ableitet. Bei dem Steine von Stannern hat man an einem von der Brandrinde vollkommen befreiten Stücke die schwarze Kruste durch Einlegen in heftiges Schmiedefeuer nachgeahmt, und ich habe an demselben Meteorit durch das Knallgasgebläse diese schwarze Rinde vollkonmen der natürlichen ähnlich, nur glänzender erzeugt. Es kann also über die Ursache dieser Brandrinde kein Zweifel sein, da die schlechte Leitungsfähigkeit der Silikate gegen Wärme eine so plötzliche äussere Erhitzung gestattet. Nur Bishopville hatte eine farblose Brandrinde, sowie auch der Stein selbst farblos war und kein Eisenoxydul entielt. Er bestand aus einem Bittererdesilikat. Ausser diesen Rinden fanden sich in der Substanz der Meteorsteine schwarze Linien, bald so fein wie ein Haar, bald bis zu 2 MM. Stärke. Sie laufen oft parallel, kreuzen sich aber auch und schwärmen in allen Richtungen. Sie laufen immer bis in die Brandrinde aus.
 
-Alle diese Thatsachen sprechen dafür, dafs die Stein-
-meteoriten auf demselben Wege wie die irdischen Silicat-
-gesteine entstanden seien. Sie haben mit cinigen derselben,
-den Trachyten und Trachydoleriten, eıne unverkennbare Aehn-
-lichkeit. und würden auf der Erdo aufgerallt gur nicht als
-Meteorite zu erkennen sein, wenn sie nicht die zwei ihnen
-eigenthümlichen Erschejaungen der Brandrinde und des ein-
-gesprengten metallischen Eisens besäfsen.
+Reichenbach hat sie unstreitig richtig erklärt als durch den Luftdruck in die Risse des Steins eingespritzte Rindenmasse. Auf dem Wege durch unsere Atmosphäre werden diese Meteorite bei ihrer planetarischen Geschwindigkeit stark verwüstet, dass man ihren ursprünglichen Zustand nicht mehr erkennen kann.
 
-Die Brandrinde der Steinmeteorite besteht aus einem
-dünnen geschmolzenen Glase, oft wie das feiuste Papier, bei
-einigen erscheint sie stellenweise derber, auch ungleich ver-
-theilt bis zu 2 MM. Dicke. Diese Rinden sind oft untersucht
-worden und bestehen sus sämmtlichen Bestandtheilen des
-Steins zu einem Giase verschmolzen, das seine schwarze
+Von den Bestandteilen der Meteorite ist keiner so abweichend von jenen unserer Erde und so befremdlich für irdische Forscher, als das metallische Eisen. Die Frage, ob natürliches metallisches Eisen auf unserer Erde vorkomme, ist schon von Bornemann* behandelt, aber nicht entschieden worden. Ebenso will Th. Andrews in Basalten metallisches Eisen durch Kupfervitriol nachgewiesen haben. Unmöglich ist es nicht, dass unter günstigen Verhältnissen Eisenoxyd durch organische Körper auch zu Metall reduzirt werden könne, so wie es meist nur zu Magneteisen gebildet erscheint.
 
-Farbe vom Eisenoxydul ableitet. Bei dem Steine von Stan-
-nern hat man an eincın von der Brandrindı vollkommen be-
-freiten Stücke die schwarze Kruste durch Einlegen in hefliges
-Schmiedofeuer nachgeahmt, und ich habe an demselben Me-
-teorit durch das Knallgasgebläse. diese schwarze Rinde voll-
-konmen der natürlichen ähnlich, nur glänzender erzeugt.
+Das eine in Thüringen gefundene Eisen,* welches frei von Nickel war, lässt allerdings einen irdischen Ursprung vermuten, doch ist dieser Fall nicht hinreichend, eine so heikle Frage zu entscheiden. Die Meteorite enthalten aber ganz entschieden metallisches Eisen oder bestehen ganz daraus, und es fragt sich, in welcher Weise dasselbe entstanden sein könne.
 
-Re kann also über die Ursache dieser Brandrinde kein Zweifel
-sein, da die schlechte Leitungsfähigkeit der Silicate gegen
-Wärme eine so plötzliche äufsere Erhitzung gestattet. Nur.
-Bisbopville hatte eine farbinse Brandrinde, sowie auch der
-Stein selbst farblos war und kein Eisenoxydul enthielt. Er
-bestand aus cinem Bittererdesilicat. Aufser diesen Rinuen
-fanden sich in der Substanz der Metsorsteine schwarze Linien,
-bald so fein wie ein Haar, bald bis zu 2 MM. Stärke. Sie
+Zur Lösung dieser Frage kam ich auf dem Wege der Induction. Es ist schon oben nachgewiesen worden, dass das Eisen mit dem Olivin so verflochten ist, dass es gleichzeitig mit demselben entstanden sein müsse. Einzelne Stücke Eisen schwimmen gleichsam im Olivin, was bei einem Schmelzflusse wegen des doppelt so grossen spez. Gewichtes des Eisens unmöglich wäre. Nun ist aber die Entstehung des Olivins auf nassem Wege durch seinen Gehalt an Wasser, durch die Abnahme des spez. Gewichts durch Schmelzen, durch das Fehlen der schwarzen Schmelzfarbe auf das Bestimmteste nachgewiesen, und es folgt daraus, dass auch das Eisen auf nassem Wege, d. h. bei niederer Temperatur entstanden sein müsse. Das kann eigentlich nur durch organische, Kohlenstoff und Wasserstoff enthaltende Körper geschehen, und da solche schon unter den Meteoriten gefunden worden sind, worauf ich später zurückkomme, so ergab sich die Ansicht, dass das metallische Eisen der Meteorite durch organische Körper auf einem anderen Weltkörper in absoluter Ruhe und langer Dauer ebenso entstanden sei, wie das Magneteisen auf der Erde. In diesem Falle konnte das Eisen keinen gebundenen Kohlenstoff enthalten, weil beide Körper bei gewöhnlicher Temperatur sich nicht vereinigen können, und weil, wenn Kohlensäure bei der Reduktion des Eisenoxyds sich bilden müsse, nicht auch Kohlensäure reduzirt werden könne.
 
+*) Pogg. Ann. 88, 145 und 325.
 
+*) Daselbst 88, 151.
 
-laufen oft parallel kreuzen sıch aber auch und schwärmen
-in allen Richtungen. Sie laufen immer bis in die Brandrinde aus.
+Die wichtigste Frage war also, ob das meteorische Eisen chemisch gebundenen Kohlenstoff enthalte oder nicht, da es bekanntlich Graphit entält, von dem wir ebenfalls annehmen müssen, dass er aus organischen Körpern ohne Feuerwirkung entstanden sei. Von dem Meteoreisen aus dem Toluccathal in Mexico berichtet Dr. Krantz,* dass dasselbe Graphit in Gesellschaft von Schwefeleisen enthalte, und es wurde deshalb gerade dieses Eisen zuerst der Untersuchung unterworfen. Hr. Dr. Krantz hatte mir eine genügende Menge desselben zur Disposition gestellt. Die Untersuchung geschah in diesem und den folgenden Fällen in derselben Art, die ich kurz beschreiben muss.
 
-Reichenbach hat sie unstreitig richtig erklärt als
-durch den Luftdrack in die Risse des Steins eirigespritzte
-Rindenmssse. Auf dem Wege durch unsere Atmosphäre wer-
-den diese Meteorite bei ihrer planetarischen Geschwindigkeit
-stark verwüstet dafs man ihren ursprünglichen Zustand nicht
-mehr erkennen kann.
+*) Pogg. Ann. 101, 153.
 
-Von den Bestandtheilen der Meteorite ist keiner so ab-
-weichend von jenen unserer Erde und so befremdlich für
-irdische Forscher, als das metallische Eisen. Die Frage, ob
-natürliches metallisches Eisen auf unserer Erde vorkomme,
-ist schon von Bornemann *) behandelt, aber nicht
-entschieden worden. Ebenso will Th. Andrews in Be-
-salten metallisches Eisen durch Kupfervitriol nachgewiesen
-haben. Unmöglich ist es nicht, dafs unter günstigen Ver-
-hältnissen Eisenoxyd durch organische Körper auch zu Metall
-redueirt werden könne, so wie es meist nur zu Magnetcısen
-gebildet erscheint.
-
-Das eine in Thüringen gefundene Risen **)., welches frei
-von Nickel war, läfst allerdings einen irdischen Ursprung
-verinuthen, doch ist dieser Fall nicht hinreichend, eıne 80
-heikle Frage zu entscheiden. Die Meteorite enthalten aber
-ganz entschieden metallisches Eisen oder bestehen ganz
-daraus, und es fragt sıch, in welcher Weise dasselbe ent-
-standori sein könne.
-
-Zur Lösung dieser Frage kam ich auf dem Wege der
-Indaction. Es ist schon oben nachgewiesen worden, dafs das
-Eisen mit dem Olivin so verflochten ist, dafs es gleichzeitig
-mit demselben entstanden sein müsse. Einzelne Stäcke Eisen
-
-) Pogg. Ann. 88, 145 und 326.
-
-®) Daseibst 88, 181.
-
-
-schwimmen gleichsam im Olivin, was bei einem Schmeir-
-flasse wegen: des doppelt so grofsen spec. Gewichtes des
-Eisens unmöglich wäre. Nun ist aber die Entstehung dcs
-Olivins auf nassem Wege durch seinen Gehalt an Wasser,
-durch die Abnahme des spec. Gewichts durch Schmelzen,
-durch das Fehlen der schwarzen Schmelzferbe auf das Be-
-stimmteste nachgewiesen, und es folgt daraus, dafs auch das
-Eisen auf nasseın Wege, d. h. bei niederer Temperatur ent-
-standen sein müsse. Das kann eigentlich nur durch orga-
-nische, Kohlenstoff und Wasserstoff enthaltende Körper ge-
-schehen, und da solche schon unter den Meteorilen gefunden
-worden sind, worauf ich später zurückkomme, so ergab sich
-die Ansicht, dafs das ınetallische Eisen der Meteorite durch
-organische Körper auf einem andereır Welikörper in absoluter
-Rube und langer Dauer ebenso entstanden sei, wie das Magnet-
-eisen auf der Erde. In diesem Falle konnte das Eisen keinen
-gebundenen Kohleistoff. enthalten, weil beide Körper bei ge-
-wöhnlicher Temperatur sich nicht vereinigen können, und
-weil, wenn Kohlensäure bei der Reduction des Eisenoxyds
-sich bilden müsse, nicht auch Kohlensäure reducirt werden
-könne.
-
-Die wichtigste Frage war also, ob das meteorische Eisen
-chemisch gebundenen Kohlenstoff enthalte oder nicht, da es
-bekanntlich Graphit enthält, von dem wir ebenfalls annehınen
-müssen. dafs er aus organischen Körpern ohne Feucrwirkung
-entstanden sei. Von dem Meteoreisen aus dem Toluccathal
-in Mexico berichtet Dr. Krantz *), dafs dasselbe Graphit in
-Gesellschaft von Schwefeleisen enthalte, und es wurde des-
-halb gerade dieses Eisen zuerst der Untersuchung unter-
-worfen. Hr. Dr. Krantz hatte mir eine genügende Menge
-desselben zur Disposition gestelll. Die Untersuchung geschah
-
-®) Pogg. Ann. X@R, 168.
-
-
-in diesem und den folgenden Fällen in derselben Art, die ich
-kurz beschreiben mufs.
-
-Das Meteoreisen wurde mit reiner Salzsäure zusammen-
-gebracht und durch Erwärmen das Wasserstoffgas entwickelt.
-Dasselbe wurde durch eine schief liegende Glasröhre geführt,
-welche mit ammoniakalischer Silberlösung gefüllt war, um
-Schwefelwassersto® aufzunehmen. Der betreffende Apparat
-ist in meinem Lehrbuch der Titrirmethode (4. Aufl., S. 641
-und 642) und in Fresenius' Zeitschrift f. anal. Chemie
-(7, 182) abgebildet. Das Gas wurde dann aus dem Gaso-
-meter durch Druck ausgetrieben ‚und an einer Platinspitze
-entzündet, schnell in einen mit kohlensäurefreier Luft ge-
-füllten Ballon, der mit Barytwasser verschen war, laftdicht
-eingesteckt und bis zum Verlöschen der Flamme brennen
-gelassen. Dieser Ballon war durch eine Natronkalkröhre
-
-. hierzu mittelst eines Blascbalges ausgeblasen worden. Nach
-dem Veröschen der Flamme wurde der Ballon 24 Stunden
-stehen gelassen, um zu erkennen, ob sich kohlensaurer Baryt
-gebildet habe.
+Das Meteoreisen wurde mit reiner Salzsäure zusammengebracht und durch Erwärmen das Wasserstoffgas entwickelt. Dasselbe wurde durch eine schief liegende Glasröhre geführt, welche mit ammoniakalischer Silberlösung gefüllt war, um Schwefelwasserstoff aufzunehmen. Der betreffende Apparat ist in meinem Lehrbuch der Titrirmethode (4. Aufl., S. 641 und 642) und in Fresenius' Zeitschrift f. anal. Chemie (7, 182) abgebildet. Das Gas wurde dann aus dem Gasometer durch Druck ausgetrieben und an einer Platinspitze entzündet, schnell in einen mit kohlensäurefreier Luft gefüllten Ballon, der mit Barytwasser verschen war, luftdicht eingesteckt und bis zum Verlöschen der Flamme brennen gelassen. Dieser Ballon war durch eine Natronkalkröhre hierzu mittelst eines Blasebalges ausgeblasen worden. Nach dem Verlöschen der Flamme wurde der Ballon 24 Stunden stehen gelassen, um zu erkennen, ob sich kohlensaurer Baryt gebildet habe.
 
 Der Verbrennungsballun fafste 3 Liter, enthielt also mit
 etmosphärischer Luft gefüllt ®/, Liter Sauerstoff und konnte
@@ -265,7 +95,6 @@ mit verdünnter reiner Schwefelsäcre erhitzt und das Gas ent-
 wickelt. Die Eintrittsstelle des Gases in der Silberlösung
 schwärzte sich und es bildeten sich dicke Flocken von
 Schweielsilber, die sich in der Flüssigkeit ballten und diese
-
 
 klar erschemen liefsen ; dann hörte die Schwärzung auf und
 die Gasentwickelung ging lange .vor sich; nach einer gewissen
@@ -289,11 +118,11 @@ Eisen zeigt. Die Analyse ergab :
 
 87,371 pC. Eisen,
 
-0,650 „ Hänfach-Behwefeleinen,.
+0,650 " Hänfach-Behwefeleinen,.
 
-11,362 „ Nickel,
+11,362 " Nickel,
 
-0,787 „ Bchreiberait
+0,787 " Bchreiberait
 100,000. .
 
 Die Analyse hat keine solche Bedeutung, wie die ein-
@@ -666,7 +495,7 @@ Körper. Die Gründe zusammengefafst sind folgende‘ :
 1) dafs die Silicate kleine Mengen Wassır enthalten ;
 
 2) dafs die Silicate durch starkes Erhitzen und Schmelzen
-an specifischem Gewichte verlieren ;
+an spezifischem Gewichte verlieren ;
 
 3) dafs verschiedene Silicate durcheinander khrystallisirt
 sind, von denen sich ein Theil ir Salzsäure löst, ein anderer
@@ -813,7 +642,7 @@ Gehen wir noch einen Schritt weiter, so können wir die An-
 sicht fussen, dafs die Meteorite, die Kometen und die bis jetzt
 entdeckten 150 + x Plancioiden zusammen Stücke jenes
 zwischen Mars und Jupiter fehlenden gröfseren Planeten sind.
-Das specilische Gewicht der Planeten nimmt vom Mercur aa
+Das spezilische Gewicht der Planeten nimmt vom Mercur aa
 ab, obgleich nicht regelmäfsig. Wir haben, Wasser = 1 ge-
 setzt, die Dichte
 des Mercur . . = 6,7
@@ -827,7 +656,7 @@ des Uranus . . ==' 0,92.
 
 Nehmen ‘wir nun für den: zwischen Mars und Jupiter
 fetlenden' Planeten : das arithmetische Mittel, so haben wir
-53 + 1,28 5 125 _ 3,275, welches das specifsche Gewicht der
+53 + 1,28 5 125 _ 3,275, welches das spezifsche Gewicht der
 meisten Meteorite ist, namentlich der Steinmeteorite, von denen
 nach Reichenbach 100 auf eine Eisenmasso kommen.
 
