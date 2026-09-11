@@ -6,11 +6,11 @@
 
 Die einzigen Himmelskörper, welche wir näher untersuchen können, weil wir sie in der Hand haben, sind die aus der Luft herabgefallenen Steine und Metallmassen, die sogenannten Aërolithen oder Meteorsteine. Dass solche zu verschiedenen Zeiten und oft in grossen Massen herabgefallen sind und dass diese Ereignisse durch Tausende von Zeugen bekundet sind, mag hier an der Spitze stehen.
 
-Man unterscheidet zweierlei Arten von Meteoriten: steinige und Eisenmassen. Als solche vollkommen getrennt sind sie äufserst selten und die überwiegende Mehrzahl ist gemischt, d. h. sie besteht aus einer steinigen Masse, welche durch metallisches Eisen durchflochten ist, oder aus Eisenmassen, welche durch dazwischen krystallisirte Silicatgesteine, meistens Olivin, durchsetzt sind. Man nennt sie dann Steine, wenn die Silicate vorwiegen, und Eisenmassen, wenn der Eisenanteil der grössere ist. _Danach gehören alle Meteorite ohne Ausnahme zur selben Art von Weltkörpern_; denn es kommen solche vor, worin der steinige Anteil von 1 bis 100 pC. steigt und eben solche Eisenmassen, wo der Eisenanteil in jedem Prozentsatze vorkommt. Das Mehr oder Weniger eines Anteils kann einen Unterschied der Art nicht begründen.
+Man unterscheidet zweierlei Arten von Meteoriten: steinige und Eisenmassen. Als solche vollkommen getrennt sind sie äufserst selten und die überwiegende Mehrzahl ist gemischt, d. h. sie besteht aus einer steinigen Masse, welche durch metallisches Eisen durchflochten ist, oder aus Eisenmassen, welche durch dazwischen krystallisirte Silicatgesteine, meistens Olivin, durchsetzt sind. Man nennt sie dann Steine, wenn die Silicate vorwiegen, und Eisenmassen, wenn der Eisenanteil der grössere ist. _Danach gehören alle Meteorite ohne Ausnahme zur selben Art von Weltkörpern_; denn es kommen solche vor, worin der steinige Anteil von 1 bis 100 pZ. steigt und eben solche Eisenmassen, wo der Eisenanteil in jedem Prozentsatze vorkommt. Das Mehr oder Weniger eines Anteils kann einen Unterschied der Art nicht begründen.
 
 Der steinige Anteil bildet eine meistens unscheinbare graue poröse Masse, welche nur selten deutliche Mineralindividuen erkennen lässt. Unter diesen ist vorzugsweise der Olivin erkannt worden und zwar sehr deutlich in der berühmten Pullas'schen Masse. Dann hat men noch Augit, Anorthit, Silicate von Bittererde, Kalk, Eisenoxydul, Manganoxydul, Tonerde, Kali und Natron, die von Säuren nicht zersetzt werden, gefunden, Chromeisen, Magneteisen, Schwefeleisen. Das sind Alles nicht nur Elemente, sondern auch Verbindungen, welche auf unserer Erde vorkommen und welche uns gestatten, die Erfahrungen von diesen Mineralien auf der Erde auch auf die Meteorsteine versuchsweise anzuwenden. Ganz besonders fordert uns dazu der Olivin auf, der in den meisten Meteoriten vorhanden ist. Der Olivin ist ein sehr feuerbeständiges Mineral, welches durch Schmelzen schwarz wird, wie alle eisenoxydulhaltigen Silicate und dann durch keine noch so langsame Erkältung diese schwarze Farbe wieder ablegt. Der Olivin kommt ferner auf der Erde ganz innig verwachsen mit kohlensaurem Eisenoxydul und kohlensaurem Kalk vor, in ausgezeichnetem Masse im Basalt des Siebengebirges. Aus beiden Tatsachen folgt, dass der irdische Olivin nur auf nassem Wege entstanden sein könne. Nun zeigen auch die Meteoriten eine schwarze Brandrinde von der Dicke eines Papieres, und auf frischem Bruche solcher Gesteine kann man durch rasches Gebläsefeuer und die Knallgasflamme ebenfalls diese Brandrinde erzeugen. Es verhalten sich also die meteorischen Olivine genau wie die irdischen und es folgt, dass der _innere Teil der nur mit einer Brandrinde umgebenen Meteorite selbst nicht geschmolzen gewesen sein kann_.
 
-Nach diesem Resultate war es wahrscheinlich, dass die steinigen Meteorite ebenfalls eine kleine Menge Wasser in Poren eingeschlossen entielten, wie die irdischen, durch Metamorphose entstandenen Minerale. Ich wendete mich dieserhalb zuerst an den verdienstvollen Meteoritenforscher Freiherrn von Reichenbach in Wien, welcher nicht bloss Sammler war, sondern auch das Opfer eines Steines nicht scheute, wenn es galt eine neue Tatsache zu erforschen. Er liess durch Prof. Ludwig in Wien ein Stück von dem bei Parnallee is Ostindien gefallenen Meteorit in diesem Sinne untersuchen. Das bei 100° C. getrocknete Pulver zeigte bei 160° nur eine sehr unbedeutende Gewichtsabnahme. Beim Glühen im trockenen Kohlensäurestrom und Auffangen des Wassers in entwässertem Kupfervitriol, was ich vorgeschlagen hatte, ergab sich ein Gewichtsverlust von 1,149 pC. und der Kupfervitriol wurde deutlich blau, so dass die Natur des Wassers unzweifelhaft feststand. Dieses meine Ansicht bestätigende Resultat bestimmte mich, den Gegenstand weiter zu verfolgen, wobei die grösste Schwierigkeit in Beschaffung des Stoffes bestand.*
+Nach diesem Resultate war es wahrscheinlich, dass die steinigen Meteorite ebenfalls eine kleine Menge Wasser in Poren eingeschlossen entielten, wie die irdischen, durch Metamorphose entstandenen Minerale. Ich wendete mich dieserhalb zuerst an den verdienstvollen Meteoritenforscher Freiherrn von Reichenbach in Wien, welcher nicht bloss Sammler war, sondern auch das Opfer eines Steines nicht scheute, wenn es galt eine neue Tatsache zu erforschen. Er liess durch Prof. Ludwig in Wien ein Stück von dem bei Parnallee is Ostindien gefallenen Meteorit in diesem Sinne untersuchen. Das bei 100° C. getrocknete Pulver zeigte bei 160° nur eine sehr unbedeutende Gewichtsabnahme. Beim Glühen im trockenen Kohlensäurestrom und Auffangen des Wassers in entwässertem Kupfervitriol, was ich vorgeschlagen hatte, ergab sich ein Gewichtsverlust von 1,149 pZ. und der Kupfervitriol wurde deutlich blau, so dass die Natur des Wassers unzweifelhaft feststand. Dieses meine Ansicht bestätigende Resultat bestimmte mich, den Gegenstand weiter zu verfolgen, wobei die grösste Schwierigkeit in Beschaffung des Stoffes bestand.*
 
 *) Von Hrn. Dr. Krantz erheilt ich Tolucca und Pultusk; von Hrn. Gustav Rose erhielt ich aus der Berliner Sammlung Proben von Misteca, Bahia, Schwetz, Zacatecas, Alais, Durango und Seeläsgen; Hr. Prof. Tschermak, Director der Wiener Sammlung, sandte mir mit grosser Bereitwilligkeit kleine Proben von Bohumiliz, Stannern, Meso-Madaras, Agram, l'Aigle, Arva, Agen, Braunau (= Hauptmannsdorf), Salès und Cap. Für die Sicherheit der Bezeichnung war demnach kein Zweifel. Hrn. Prof. Tschermak kann ich hier meinen besten Dank aussprechen, da die beiden ersten Herren leider nicht mehr am Leben sind.
 
@@ -20,7 +20,7 @@ Ich legte einen besonderen Wert darauf, das Wasser jedesmal als tropfbar-flüssi
 
 _Stannern_, Mähren, gefallen 22. Mai 1808; Buchner, S. 23.
 
-4,904 Grm. Substanz verloren 0,014 Wasser = 0,285 pC.
+4,904 Grm. Substanz verloren 0,014 Wasser = 0,285 pZ.
 
 _Mezo-Madaras_, Siebenbürgen, gefallen 4. Sept. 1852; Buchner, S. 82.
 
@@ -28,19 +28,19 @@ _Mezo-Madaras_, Siebenbürgen, gefallen 4. Sept. 1852; Buchner, S. 82.
 
 _L'Aigle_, Normandie, gefallen am 26. April 1803. Jener berühmte Fall, welcher zuerst die französische Academie umstimmte; Buchner, S. 15.
 
-3,284 Grm. Substanz gaben 0,047 Wasser = 1,430 pC.
+3,284 Grm. Substanz gaben 0,047 Wasser = 1,430 pZ.
 
 _Pultusk_, Polen, gefallen am 30. Januar 1868.
 
-4 Grm. Substanz gaben 0,039 Wasser = 0,866 pC.
+4 Grm. Substanz gaben 0,039 Wasser = 0,866 pZ.
 
 _Agen_, Departement Lot et Garonne, gefallen 5. September 1814. Buchner, S. 35.
 
-1,648 Grm. Substanz gaben 0,011 Wasser = 0,667 pC.
+1,648 Grm. Substanz gaben 0,011 Wasser = 0,667 pZ.
 
 _Salès_, Departement Rhône, gefallen 8. März 1798; Buchner, S. 13.
 
-3,4932 Grm. Substanz gaben 0,021 Wasser = 0,601 pC.
+3,4932 Grm. Substanz gaben 0,021 Wasser = 0,601 pZ.
 
 Demnach enthalten alle diese Gesteine kleine Mengen Wasser, wie die irdischen Silicate, und wahrscheinlich zuerst etwas mehr, weil alle in sehr trockenen Kabinetten lange aufbewahrt waren und das nicht chemisch gebundene Wasser zum Teil schon vorher diffundirt war.
 
@@ -54,7 +54,7 @@ _Salès_, s. o., spez. Gewicht vor dem Schmelzen 3,589
 _Salès_, s. o., spez. Gewicht nach dem Schmelzen 3,412  
 Abnahme 0,177
 
-_Stannern_ zeigte keine Gewichtsabnahme nach dem Schmelzen; es liess sich aber im Sauerstoffgebläse sehr leicht eine schwarze Brandrinde anschmelzen. Dieser Stein ist porös und enthält 9,84 pC. Hohlräume vom Volum des Ganzen.
+_Stannern_ zeigte keine Gewichtsabnahme nach dem Schmelzen; es liess sich aber im Sauerstoffgebläse sehr leicht eine schwarze Brandrinde anschmelzen. Dieser Stein ist porös und enthält 9,84 pZ. Hohlräume vom Volum des Ganzen.
 
 _Pultusk_ zeigte natürlich das spez. Gewicht 3,658; nach dem Schmelzen 3,512, also eine Abnahme am spez. Gewicht von 0,146. Auch G. vom Rath bemerkt in seiner Monographie dieses Meteorits (S. 19), dass das spez. Gewicht des geschmolzenen Steins ein geringeres sei, als dasjenige des krystallinischen Steins, muss aber als Plutonist darauf verzichten, davon einen Grund anzugeben.
 
@@ -80,271 +80,67 @@ Die wichtigste Frage war also, ob das meteorische Eisen chemisch gebundenen Kohl
 
 Das Meteoreisen wurde mit reiner Salzsäure zusammengebracht und durch Erwärmen das Wasserstoffgas entwickelt. Dasselbe wurde durch eine schief liegende Glasröhre geführt, welche mit ammoniakalischer Silberlösung gefüllt war, um Schwefelwasserstoff aufzunehmen. Der betreffende Apparat ist in meinem Lehrbuch der Titrirmethode (4. Aufl., S. 641 und 642) und in Fresenius' Zeitschrift f. anal. Chemie (7, 182) abgebildet. Das Gas wurde dann aus dem Gasometer durch Druck ausgetrieben und an einer Platinspitze entzündet, schnell in einen mit kohlensäurefreier Luft gefüllten Ballon, der mit Barytwasser verschen war, luftdicht eingesteckt und bis zum Verlöschen der Flamme brennen gelassen. Dieser Ballon war durch eine Natronkalkröhre hierzu mittelst eines Blasebalges ausgeblasen worden. Nach dem Verlöschen der Flamme wurde der Ballon 24 Stunden stehen gelassen, um zu erkennen, ob sich kohlensaurer Baryt gebildet habe.
 
-Der Verbrennungsballun fafste 3 Liter, enthielt also mit
-etmosphärischer Luft gefüllt ®/, Liter Sauerstoff und konnte
-°/, Liter = 1200 CC. Wasserstoff verbrennen. Diese wiegen
-ohne Correction 0,107 Grin. und diese 28mal genommen
-geben 2,998 Grin. Eisen, weiche nothwendig waren, so viel
-Wasserstoff zu entwickeln. Es mufsten also 3 Grin. Eisen in
-jedem Ralle hinreichen, den Sauerstoff des Verbrennungs-
-ballons auszunutzen.: In den meisten Fällen wurde mehr
-Eisen angewendet, um auch den Geruch des Gases zu prüfen.
+Der Verbrennungsballon fasste 3 Liter, entielt also mit atmosphärischer Luft gefüllt 3/5 Liter Sauerstoff und konnte 6/5 Liter = 1200 CC. Wasserstoff verbrennen. Diese wiegen ohne Korrection 0,107 Grm. und diese 28mal genommen geben 2,996 Grm. Eisen, welche notwendig waren, so viel Wasserstoff zu entwickeln. Es mussten also 3 Grm. Eisen in jedem Falle hinreichen, den Sauerstoff des Verbrennungsballons auszunutzen. In den meisten Fällen wurde mehr Eisen angewendet, um auch den Geruch des Gases zu prüfen.
 
-Ven Tolucca, bei Buchner S. 139, wurden 9,735 Grm.
-mit verdünnter reiner Schwefelsäcre erhitzt und das Gas ent-
-wickelt. Die Eintrittsstelle des Gases in der Silberlösung
-schwärzte sich und es bildeten sich dicke Flocken von
-Schweielsilber, die sich in der Flüssigkeit ballten und diese
+Von Tolucca, bei Buchner S. 139, wurden 9,735 Grm. mit verdünnter reiner Schwefelsäure erhitzt und das Gas entwickelt. Die Eintrittsstelle des Gases in der Silberlösung schwärzte sich und es bildeten sich dicke Flocken von Schwefelsilber, die sich in der Flüssigkeit ballten und diese klar erscheinen liessen; dann hörte die Schwärzung auf und die Gasentwickelung ging lange vor sich; nach einer gewissen Zeit fing die Bildung von Schwefelsilber wieder an und hörte noch einmal auf. Es geht daraus hervor, dass das Schwefeleisen in zwei getrennten Körperchen in dem Eisen sass und nicht mit dem Ganzen verbunden war, und daraus folgt, dass die Masse niemals geschmolzen war, weil sich sonst der Schwefel in jedem kleinsten Teilchen würde befunden haben. An Gas wurden 2750 CC. erhalten. Der Verbrennungsballon wurde von dem brennenden Gase vollständig erschöpft und die Flamme verlosch. _Weder sogleich noch nach 24 Stunden hatte sich die kleinste Menge kohlensaurer Baryt gebildet. Das Barytwasser blieb durchsichtig klar._
 
-klar erschemen liefsen ; dann hörte die Schwärzung auf und
-die Gasentwickelung ging lange .vor sich; nach einer gewissen
-Zeit fing die Bildung von Schwefelsilber wieder an und hörte
-noch einmal anf. Es geht daraus hervor, dafs das Schwefel-
-eisen in zwei getrennten Körperchen in dem Eisen safs und
-nicht mit dem Ganzen verhunden war, und daraus folgt, aafs
-die Messe niemals geschmolzen war, weil sich sonst der
-Schwefel in jedem kleinsten Theilchen würde befunden haben.
-An Gas wurden 2750 CC. erhalten. Der Verbrennungs-
-baflon wurde von dem brennenden Gase vollständig erschöpft
-und die Flamme verlosch.. Weder engleich noch nach 24
-Stunden hatte sich die kleinste Menge kohlensaurer Baryt
-gebildet. Das Barytwasser blieb durchsichtig klar.
+Den Rest des Gases benutzte ich, um dasselbe in die Nase eintreten zu lassen. Es war vollkommen geruchlos und zeigte nicht die kleinste Spur jenes eigentümlichen Geruches, den alles irdische, mit Kohle in der Schmelszhitze reduzirte Eisen zeigt. Die Analyse ergab:
 
-Den Rest des Gases benutzte ich, um dasselbe in die
-Nase eintreten su lassen. Bs war vollkommen geruchlog und
-zeigte nicht die kleinste Spur jenes eigenthümlichen Geruches,
-den alles irdische, mit Kohle in der Schmelszhitze redueirte
-Eisen zeigt. Die Analyse ergab :
+|         |                            |
+|---------|----------------------------|
+| 87,371  | pZ. Eisen,                 |
+| 0,630   | pZ. Einfach-Schwefeleisen, |
+| 11,262  | pZ. Nickel,                |
+| 0,737   | pZ. Schreibersit           |
+| 100,000 | ~                          |
 
-87,371 pC. Eisen,
+Die Analyse hat keine solche Bedeutung, wie die einfache Tatsache, dass das Meteoreisen kohlenfrei war.
 
-0,650 " Hänfach-Behwefeleinen,.
+_Seeläsgen_, bei Buchner S. 178. Gefundene Eisenmasse von 102 Kilogrm. Gewicht. Ich hatte Sägespäne von Hrn. Prof. G. Rose erhalten.
 
-11,362 " Nickel,
+4,200 Grm. wurden zur Auflösung genommen. Die Silberlösung blieb lange unverändert; erst als volles Kochen begann trübte sich dieselbe, aber nicht mit Flocken, sondern mit einem schwarzen, suspendirt bleibenden Pulver. Dasselbe erwies sich als reineg Silber und nicht als Schwefelsilber. Es war also aus dem Schreibersit etwas Phosphorwasserstoff entwickelt worden, welcher die Trübung veranlasste. Von starker Salzsäure wird der Schreibersit im Kochen angegriffen. Es waren 1200 CC. Gas gewonnen, welche verbrannt das Barytwasser nicht im Mindesten trübten; das Gas war geruchlos.
 
-0,787 " Bchreiberait
-100,000. .
+Der Schreibersit blieb pulverig zurück. Die Sägespäne waren also von einer Stelle herrührend, die zufällig kein Schwefeleisen entielt.
 
-Die Analyse hat keine solche Bedeutung, wie die ein-
-fache Thatsache, dafs das Meteoreisen kohlenfrei war.
+Wöhler teilt mit,* dass Stücke von der bei Hainholz gefundenen meteorischen Eisenmasse Schwefelwasserstoff entwickelten, andere aber nicht. Es hat also auch hier keine Schmelzung stattgefunden. Dagegen entielt Hainholz hier und da _grüne (!)_ Olivinkörner und gelbliches Schwefeleisen sichtbar unterschieden. Da der Olivin grün und nicht schwarz war, so hatte das ihn umgebende Eisen niemals Schmelzhitze erfahren. Nach Kohlenstoff wurde damals nicht gesucht, da man keine Ansicht hatte, die daraus einen Schluss hätte ziehen lassen.
 
-Seeläsgen, bei Buchner S. 178. Gefundene Eisenmasse
-von 102 Kilogrm. Gewicht. Ich hatte Sägespäne von Hrn.
-Prot. G. Rose erhalten.
+Einen ferneren Beleg zu dem Umstande des Getrenntvorkommens von Schwefeleisen im Eisen bot die Bittburger Eisenmasse. Dieselbe wurde 1802 entdeckt, aber erst 1814 näher bekannt. Sie wog 1600 bis 1700 Kilogrm. Kalt war das Eisen hämmerbar, nach dem Schmelzen aber nicht mehr. Man versuchte 1807 die Masse auf dem Pluwiger Hammer bei Trier einzuschmelzen oder vielmehr auszuschmieden. Nach heftigem Feuer war sie ganz rotbrüchig geworden. Es war das Schwefeleisen jetzt in die ganze Masse eingeschmolzen und hatte die bekannte Wirkung auf das Eisen ausgeübt. Getäuscht warf man die verdorbene Masse auf die Halde, wo sie nachher wieder ausgegraben wurde und durch ihren Nickelgehalt ihren meteorischen Ursprung verrieth.
 
-4200 Grm. wurden zur Auflösung genommen. Die
-Silberlösung blieb lange unverändert; erst als volles Kochen
-begann trübte sich dieselbe, aber nicht mit Flocken, sondern
-mit einem schwarzen suspendirt bleibenden Pulver. Dasselbe
-erwies sich als reineg Silber und nicht als Schwefelsilber.
+*) Pogg. Ann. 100, 844.
 
+In Betreff des hellfarbigen Schwefeleisens, welches sich auf der Schlifffläche deutlich von dem Nickeleisen unterscheidet, ist zu bemerken, dass dasselbe Einfach-Schwefeleisen ist und nicht Magnetkies, wie es bei Buchner und Anderen genannt wird. Der irdische Magnetkies entwickelt mit Säuren Schwefelwasserstoff unter Abscheidung von Schwefel und entält 7 Atome Eisen auf 8 Atome Schwefel. Das meteorische Einfach-Schwefeleisen kommt auf der Erde nicht vor; es löst sich in Säuren ohne Abscheidung von Schwefel.
 
-Halde, wo sie nachher wieder ausgegraben wurde und durch
-ihren Nickelgehalt ihren meteorischen Ursprung vertieth.
+_Zacatecas_, bei Buchner S. 144. Die Masse ist vor undenklichen Zeiten bei jener Stadt in Mexico gefunden worden. Ich hatte 10,5 Grm. Späne von G. Rose. Beim Aufgiessen der Salzsäure entwickelten sich sogleich Gasblasen, welche die Silberlösung stark schwärzten; gegen Ende der Entwickelung stiegen die Gasblasen ungefärbt auf. Es waren 4 Grm. gelöst und 1400 CC. Gas erhalten. Das Barytwasser blieb ungetrübt; das Gas wer vollkommen geruchlos. Der Schreibersit betrug 3,67 pZ., der Nickelgehalt 5,325 pZ., was mit früheren Analysen (bei Buchner S. 145) sehr gut stimmt.
 
-In Betreff des hellfarbigen Schwefeleisens, . weiches sich
-auf der Schlifffläche deutlich ven dem Nickeleisen unter-
-: scheidet, ist zu bemerken, dafs dasselbe Einfach-Schwefeleisen
-ist und uicht Maugnctkies, wie es bei Buchner und Anderen
-genannt wird. Der irdische Magnetkivs entwickelt mit Säuren:
-Schwefelwasserstoff unter Abscheidung von Schwefel und
-enthält 7 Atome Eisen auf 8 Atonw Schwefel. Das metearische
-Einfach-Schwefeleisen kummi auf der Erde nicht vor; es löst
-sich in Säuren ohne Abscheidung von Schwefel.
+_Bohumilitz_, in Böhmen gefunden; Fallzeit unbekannt; wog 57 Kilogrm. 5 Grm. Sägespäne (von G. Rose) entwickelten 2050 CC. Gas, welches die Silberlösung stark trübte. Barytwasser blieb im Verbrennungsballon ganz klar; das Gas war geruchlos. 4,74 pZ. Schreibersit, Nickelgehalt 5,3244 pZ. Frühere Analysen gaben 3 bis 8 pZ. Nickel.*
 
-Zacatecas, bei Buchner S. 144. Die Masse ist vor
-undenklichen Zeiten bei jener Stadt in Mexico gefunden wor-
-den. Ich hatte 10,5 Grm. Späne von G. Rose. Beim Auf-
-giefsen der Salzsäure entwickelten sich sogleich Gasblasen,
-welche die Silberlösung stark schwärzten; gegen Ende der
+*) Vgl. Pogg. Ann. 27, 118 und 88, 147.
 
-Entwickelung stiegen die Gasblasen ungefärbt auf. Es waren
-4 Grin. gelöst und 1400 CC. Gas erhalten. Das Barytwasser
-blieb ungetrübt; das Gas wer vollkommen geruchlos. Der
-Schreibersft betrug 3,67 pC., der Nickelgeialt 5,325 pC., was
-mit früberen Analysen (bei Buchner S. 145) sehr gut
-stimmt.
+_Arva_ in Ungarn, 1840 gefunden, bei Buchner S. 168; grosse Mengen; etwa 32 Zentner wurden eingeschmolzen und nur 2 Zentner gerettet. Ich hatte drei massive Stückchen von Prof. Tschermak. Auf einer polirten Stelle sah man deutlich einen Einschluss von Schwefeleisen. Die zwei kleinsten Stücke im Gewichte von 2,93 Grm. wurden geopfert. Die Salzsäure färbte sich hochgelb von dem zuerst gelösten Eisenoxyd, dann trübte sie sich durch den entwickelten Schwefelwasserstof durch ausgeschiedenen Schwefel, nach Reduktion des Eisenchlorids wurde die Flüssigkeit grün. Barytwasser blieb ungetrübt. 5,17 pZ. Nickel; Schreibersit war vorhanden, wurde aber nicht bestimmt.
 
-Bohumilite, in Böhmen gefunden; Failzeit unbekannt;
-wog 57 Kilogrm. 5 Grm. Sägespäne (von G. Rose) ent-
-wickelten 2050 CC. Gas, welches die Silberlösung stark trübte.
-Barytwasser blieb im Verbrennungsballon ganz klar; das Gas
-war geruchlas. 4,74 pC. Schreibersit, Nickelgehalt 5,3244 pC.
-Frühere Analysen gaben 3 bis 8 pC. Nickel *).
+_Agram_ in Croatien. Der Fall dieser Eisenmasse am 26. Mai 1751 wurde beobachtet und durch gerichtliche Zeugenverhöre konstatirt; bei Buchner S. 135. Ich hatte Sägespäne in genügender Menge von Prof. Tschermak erhalten. 4 Grm. wurden gelöst; keine Spur von Schwefelwasserstoff. 1100 CC. Gas verbrannten ohne Trübung des Barytwassers; geruchloses Gas; 2,1 pZ. Schreibersit; 8,17 pZ. Nickel.
 
-Arva in Ungarn, 1840 gefunden, bei Buchner S. 168;
-grofse Mengen; etwa .32 Centner wurden eingeschmolzen und
-nur 2 Centner gerettet. Ich halle drei massive Stückchen
+_Misteca_ in Mexico, bei Buchner S. 148. Ich hatte 5,26 Grm. Späne von G. Rose; davon wurden 3 Grm. verwendet. 1200 CC. Gas; davon 1100 CC. verbrannt, ohne die geringste Trübung des Barytwassers; 2,56 pZ. Schreibersit; 7,67 pZ. Nickel.
 
-®) Vgl. Pogg. Ann. 87, 118 und BB, 147.
+_Braunau_ oder Hauptmannsdorf in Böhmen. Ist der zweite beobachtete Niederfall einer Eisenmasse, am 14. Juli 1847, 3 3/4 Uhr Morgens; bei Buchner S. 176. 6,1 Grm. Bohrspäne von Prof. Tschermak. 4 Grm. wurden verwendet und 1600 CC. Gas erhalten. Sehr dicke Flocken von Schwefelsilber. 1200 CC. verbrannt liessen das Barytwasser noch nach Stunden ganz klar. 3,65 pZ. Schreibersit; 5,089 pZ. Nickel. Gas geruchlos.
 
+_Cap der guten Hoffnung_, Eisenmasse von 85 Kilogrm., 1793 zufällig entdeckt; bei Buchner S. 146. Zur Verfügung standen Eisensplitter mit deutlichen Sägestrichen. Auf der Schnittfläche war kein Schwefeleisen zu erkennen, so wie auch das Gas ganz frei von Schwefelwasserstoff. 600 CC. Gas verbrannten ohne Barytreaction. Nickelgehalt 14,09 pZ.; kaum eine Spur von Schreibersit.
 
-von Prof. Tschermak. Auf einer peolirten Stelle sah man
-deutlich einen Einschluls von Schwefeleisen. Die. zwei klein-
-sten Stücke im Gewichte von 2,83 Grm. wurden geopfert.
-Die Salzsäure färbte sich hochgelb von dem zuerst gelösten
-Eisenoxyd, dann trübte sie sich durch den entwickelten
-Schwefelwasserstof durch ausgeschiedenen Schwefel, nach
-Reduction des Eisenchlorids wurde die Flüssigkeit grün.
-Barytwasser blieb ungeträbt. 5,17 pC. Nickel; Schreibersit
-war vorhanden, wurde aber nicht bestimmt.
+_Bahia_ in Brasilien, colossaler Eisenblock, suf 8000 bis 9000 Kilogrm. geschätzt; 1784 aufgefunden; bei Buchner S. 142. Vorhanden 1,920 Grm. Feilspäne, aus denen 880 CC. Gas gewonnen wurden. Keine Trübung des Barytwassers; wenig Schwefelwasserstoff; Schreibersit 4,84 pZ.; Nickel 7,97 pZ.
 
-Agram in Crostien. Der Fall dieser Eisenmasse am
-26. Mai 1751 wurde beobachtet und durch gerichtliche Zeugen-
-verhöre constatirt; bei Buc hner S. 135. Ich hatte Säge-
-späne in genügender Menge von Prof. Tschermak erhalten.
-4 Grm. wurden gelöst; keine Spur von Schwefelwasserstoff.
-1100 CC. Gas verbrannten ohne Trübung des Barytwassers ;
-‚geruchloses Gas; 2,1 pC. Schreibersit ; 8,17 pC. Nickel.
+_Schwetz_ an der Weichsel, Regierungsbezirk Marienwerder; Eisenmasse über 20 Kilogrm., 1850 gefunden; bei Buchner S. 182. Es waren 18 Grm. Feilspäne vorhanden; davon 4 Grm. in Arbeit genommen. Es wurden 1420 CC. Gas gewonnen, welche viel Schwefelsilber abgesetzt hatten. Gegen Ende der Entwickelung hörte Schwefelwasserstoff auf, da das Schwefeleisen leichter gelöst wird, als das Nickeleisen. Es wurden 1100 CC. verbrannt, welche das Barytwasser vollkommen klar liessen; Gas geruchlos. Schreibersit 4,12 pZ.; Nickel 4,424 pZ.
 
-Misteca in Mexico, bei Buchner S. 148. Ich hatte
-5,26 Girm. Späne von' G. Rose; davon wurden 3 Grm. ver-
-wendet. 4200 CC. Gas; davon 1100 CC. verbrannt, ohne die
-geringste Trübung des Barytwassers; 2,56 pC. Schreibersit ;
-7,67 pC. Nickel.
+_Durango_ in Mexico; 1805 gefunden; in der Nähe sollen sich bis 20000 Kilo befinden; bei Buchner S. 149; bei Chladni S. 337. 5,4 Grm. Sägespäne, wovon 3 Grm. verwendet wurden. Spuren von Schwefelwasserstoff. 1100 CC. Gas, welche ohne Trübung des Barytwassers verbrannten. Schreibersit 2,9 pZ.; Nickel 4,39 pZ.
 
-Braunau oder Hauptmannsdorf in Böhmen. Ist der
-zweite beobachtete Niederfall einer Eisenmasse, am 14. Juli
-1847, 3°/, Uhr Morgens; bei Buchner S. 176. 6,1 Grm.
-Bohrspäne von Prof. Tschermak. 4 Grm. wurden ver-
-wendet und 1600 CC. Gas erhalten. Sehr dicke Flocken von
-Schwefelsilber. 1200 CC. verbrannt liefsen das Baryiwasser
-noch nach Stunden ganz klar. 3,65 pC. Schreibersit; 5,089 pC.
-Nickel. Gas geruchlos.
+Es wurde nun zum Vergleich irdisches Gusseisen gelöst, so dass 1000 CC. Gas entwickelt wurden. Beim Einschieben der Wasserstoffflamme in den Ballon mit Barytwasser überzog sich dieses sogleich mit einer dicken Haut von kohlensaurem Baryt, welche durch Schütteln zerbrochen sich noch vier- bis fünfmal erneuerte, wodurch nicht nur das Barytwasser, sondern auch die durch Schütteln benetzten Wände des Ballons milchweiss wurden. Da das Meteoreisen, wenn es überhaupt mit Kohle geschmolzen war, nur Gusseisen und nicht himmlisches Schmiedeeisen sein konnte, so ist einleuchtend, dass die in Untersuchung gezogenen Proben sämmtlich kohlefreies Eisen ehtielten. Es tritt nun noch die Beobachtung hinzu, dass das Meteoreisen auch ohne Einmengung von Schwefeleisen und Olivin sehr schwer zu feilen, bohren und sägen ist, d. h. dass es eine grosse Cohäsion besitzt; durch einmaliges Ausglühen wird es aber weich und biegsam. Diese Erscheinung erklärt sich durch die analoge des galvanisch gefällten Kupfers. Dieses ist zunächst sehr hart und spröde, wird aber durch Ausglühen weich und hämmerbar. Die aus einer Flüssigkeit bei niedriger Temperatur erlangte Cohäsion ist grösser als die nach Glühen noch zurückgebliebene, wie bei Kieselerde und Silikaten.
 
-Cap der guten Hoffnung, Eisenmasse von 85 Kilogrm.,
-1793 zufällig entdeckt; bei Buchner S. 146. Zur Ver-
-fügung standen Eisensplitter ımit deutlichen Sägestrichen. Auf
-der Schnittläche war kein Schwefeleisen zu erkennen, so wie
+Graham beobachtete, dass Meteoreisen bei hoher Temperatur Wasserstoff ausgebe, und erklärt diese Erscheinung, als aus einem Gehalte von Wasserstoff im Meteoreisen abzuleiten. Viel wahrscheinlicher ist, dass das Meteoreisen aus einer wässerigen Flüssigkeit krystallisirt, kleine Mengen Wasser einschliessend zurückbehalten habe, welche bei der Weissglühhitze durch das Eisen zersetzt werden und den Wasserstoff ausgeben.
 
+Von ganz besonderer Tragweite ist die zuerst von Berzelius* im Jahre 1834 im Meteorit von Alais nachgewiesene, dann aber durch Wöhler* festgestellte Anwesenheit von Kohlenwasserstoffen. Diese wurden im Meteorit von Kaba in Ungarn gefunden, der am 17. April 1857 zur Erde fiel. Der Kohlenwasserstoff wurde bei der Analyse zufällig entdeckt, und um ihn zu constatiren wurde von dem gut ausgetrockneten Pulver eine Portion in reinem Sauerstoffgas erhitzt und das gebildete Gas nach dem Durchgehen durch Bleihyperoxyd, um schweflige Säure zurückzuhalten, in Barytwasser geleitet. Diess zeigte bald einen starken weissen Niederschlag und in der Röhre zeigte sich trotz vollständigen Austrocknens aller Stoffe ein Anflug von Wasser und ein weisser Rauch, der sich zu einem krystallinischen weissen Sublimat verdichtete. Es wurde ferner ein Teil der Substanz mit reinem Weingeist warm ausgezogen und die Flüssigkeit verdunstet. Es blieb eine farblose, weiche, anscheinend krystallinische Masse zurück, die einen schwachen unbestimmt aromatischen Geruch hatte. In Alkohol war sie wieder löslich, daraus durch Wasser milchig fällbar; aus Äther krystallisirte sie, an der Luft erhitzt verflüchtigte sie sich in weissen, schwach aromatisch riechenden Dämpfen; in einer engen Glasröhre erhitzt schmolz sie sehr leicht und zersetzte sich bei höherer Temperatur unter Abscheidung _schwarzer Kohle_. Auch noch ein anderer, zu Bokkefeld am Cap am 13. Oktober 1838 gefallener Meteorit entielt neben 1 2/3 pZ. amorpher Kohle 1/4 pZ. organischer Substanz. Es war also ganz entschieden hier eine Kohlenwasserstoffverbindung vorhanden, wie wir sie auf der Erde als Ozokerit, Idrialit, Scheererit, Bergwachs u. a. haben. Daraus würde man nach irdischen Erfahrungen schliessen, dass auf jenem Weltkörper auch Organismen von der Natur der Pflanzen der Erde vorhanden gewesen sein müssten und diese die letzten Ursachen der vielen entwasserstofften Verbindungen waren, die wir in den Meteoriten finden. Natürlich würden die Pflanzen auch die Gegenwart von freiem Sauerstoff bedingen, um wieder in Kohlensäure übergehen zu können, ohne welche Bedingung eine ununterbrochene Reihe von Pflanzenwelten nicht denkbar ist. Damit aber das Wasser als solches wirken könne, muss es flüssig sein, und diess erfordert, dass der fragliche Weltkörper eine gewisse Grösse habe, um von der Sonne erwärmt werden zu können. Kleine einzeln fahrende Meteorite müssen trotz aller Sonnenstrahlen die Temperatur des Weltraums annehmen, indem sie wie die Spitzen der Alpen zu unbedeutend sind, um allein durch Insolation erwärmen zu können. Erst mit der Ausdehnung des Weltkörpers nimmt die Wärmeentwickelung so weit zu, dass dadurch eine warme Atmosphäre erzeugt werden kann. Es unterstützt dieser Umstand die Ansicht, dass die Meteorite nicht einzeln ihre Form angenommen haben können, sondern dass sie während ihrer Bildung einem grösseren Weltkörper angehörten, auf welchem ähnliche Vorgänge, wie auf unserer Erde, stattfanden.
 
+*) Pogg. Annalen 88, 119.
 
-auch das Gas ganz frei von Schwefelwasserstofl. 600 CC.
-Gas verbrannten ohne Barytresction. Nickelgehalt 14,09 pC;
-kaum eine Spur von Schreibersit.
-
-Bahia in Brasilien, colossaler Eisenblock, suf 8000 bis
-9000 Kilogrm. geschätzt; 1784 aufgefunden; bei Bachner
-8. 142. Vorhanden 1,920 Grin. Feilspäne, aus denen 880 CC.
-Gas gewonnen wurden. Keine Trüäbung des Barytwassers ;
-wenig Schwelelwssserstoff; Schreibersit 4,84 pC.; Nickel
-7,97 pC.
-
-. Schwetz an der Weichsel, Regierungsbezirk Marienwerder ;
-£isenmasse über 20 Kilogrm., 41850 gefunden; bei Buch-
-ner $S. 182. Es waren 18 Grm. Feilspäne vorhanden ; davon
-4 Grm. in Arbeit genommen. Es wurden 1420.CC. Gas ge-
-wonnen, welche viel Schwefelsilber abgesetzt hatten. Gegen
-Ende der Entwickelang hörte Schwefelwasserstoff auf, da das
-Schwefeleisen leichter gelöst wird, als das Nickeleisen. Es
-wurden 1100 CC. verbrennt, weiche das Barytwasser voll-
-kommen klar liefsen; Gas geruchios. Schreibersit 4,12 pC.;
-Nickel 4,424 pC, _
-
-Durango in Mexico; 1805 gefunden ; in der Nähe sollen
-sich bis -20000 Kilo befinden; bei Buchner S. 149; bei
-Chladni S. 337. 5,4 Grm. Sägespäne, wovon 3 Grm. ver-
-wendet wurden. Spuren von Schwefelwasserstoff. 1100 CC.
-Gas, welche ohne Trübung des Barytwassers verbrannten.
-Schreibersit 2,9 pC.; Nickel 4,39
-
-Es wurde nun zum Vergleich irdisches Gufseisen gelost,
-so dafs 1000 CC. Gas entwickelt wurden. Reim Einschieben
-der Wasserstoffflanme in den Ballon mit Barytwasser überzug
-sich dieses sogleich mit einer dieken Haut von kohlensaurem
-Baryt, weiche durch Schütteln zerbrochen sich noch vier- bis
-fünfmsl erneuerte, wodurch nicht nur das Barytwssser, son--
-dern auch die durch Schütteln benetzten Wände des Ballons
-ilchweifs wurden. .Ds das Meteoreisen, wenn es überhaupt
-
-
-
-mit Kohle geschmolzen war, nur Gufseisen und nıcht hbinm-
-
- lisches Schmiedeeisen sein konnte, so ist einleuchtend, dafs
-die in Untersuchung gezogenen Proben sämmtlich kohlefreies
-Eisen ehthielten. Es tritt uun noch die Beobachtung hinzu,
-dafs das Meteoreisen auch ohne Einmengung von Schwefel-
-eisen und Olivin sehr schwer zu feilen, bohren und sägen
-ist, d. h. dafs es eine grofse Cobäsion besitzt; durch ein-
-maliges Ausglühen wird es aber weich und biegsam. Diese
-Erscheinung erklärt sich durch die analoge des galvanisch
-gefällten Kupfers. Dieses ist zunächst sehr hart und spröde,
-wird aber durch Ausglüken weich und hämmerbar. Die aus
-einer Flüssigkeit bei niedriger Temperatur erlangte Cohäsion
-ist gröfser als die nach Glühen noch zurückgebliebene, wie
-bei Kieselerde und Silicaten.
-
-Graham beobachtete, dafs Meteoreisen bei hoher Ten-
-peratur Wasserstoff ausgebe, und erklärt diese Erscheinung,
-als aus einem Gehalte von Wasserstoff im Meteoreisen abzu-
-
-leiten. Viel wahrscheinlicher ist, dafs das Metcoreisen aus
-einer wässerigen Flüssigkeit krystallisirt, kleine Mengen Wus-
-ser einschliefsend zurückbehalten habe, welche bei der Weils-
-glühlitze durch das Eisen zersetzt werden und den. Wasser-
-stoil ausgeben.
-
-Von ganz besonderer Tragweite ist die zuerst von Ber-
-zelius*) im Jahre 1834 im Meteorit von Alais nachgewie-
-sene, dann aber durch Wöhler **) fesigestellie Anwesen-
-
-‚heit von Kohlenwasgersiofien. Diese wurden im Meteorit von
-Kaba in Ungarn gefunden, der am 17. April 1857 zur Erde
-_ fiel Der Kohlenwasserstoff wurde bei der Analyse zufällig
-entdeckt, und um ihn zu constliren wurde von dem gut
-ausgetrockneten Pulver eine Portion in reinem Sauerstoffgas
-®) Pogg. Annalen 88, 119.
-*?) Dieso Annalen 2GB, 346 und 343.
-
-
-erhitzt und das gebildete Gas nach dem Durchgehen durch
-Bleihyperoxyd, um schweflige Säure zurückzuhalten, in Baryt-
-wasser geleitet. Diefs zeigte bald einen starken weifsen
-Niederschlag und in der Röhre zeigte sich trotz vollständigen
-Austrocknens aller Stoffe ein Anflug von Wagser und ein
-weifser Rauch, der sich zu einem krystallinischen weifsen
-Sublimat verdichtete. Es wurde ferner ein Theil der Substanz
-mit reinem Weingeist warm ausgezogen und die Flüssigkeit
-verdunstet. Es blieb eine farblose, weiche, anscheinend kry-
-stallinische Masse zurück, die einen schwachen unbestimmt
-aromatischen Geruch hatte. In Alkonol war sie wieder lös-
-lich, daraus darch Wasser milchig fällbar ; aus Aether kry-
-stellisirte sie, am der Luft erhitzt verflüchtigte sie sich in
-weifsen, schwach aromatisch riechenden Dämpfen; in. einer
-engen Glasröhre erhitzt schmolz sie sehr leicht und zersetzte
-sich bei höherer Temperatur unter Abscheidung schwarzer
-Kohle. Auch noch ein anderer, zu Bukkefeld am Cap sm
-13. October 1838 gefellener Meteorit enthielt neben. 1*/, pC.
-amorpher Kohle !/, pC. organischer Substanz. Es war also
-ganz entschieden hier eine Kohlenwasserstoffverbindung vor-
-banden, wie wir sie auf der Erde als Ozokerit, Idrialit,
-Scheererit, Bergwachs u. a. haben. Daraus würde man nach
-irdischen Erfahrungen schliefsen, dafs auf jenem Weltkörper
-auch Organismen von der Natw der Pflanzen der Erde vor-
-handen gewesen sein müfsten und diese die leizten Ursachen
-der vielen entwasserstofften Verbindungen waren, die wir.
-in den Meteoriten finden. Natürlich würden die Pflanzen auch
-die Gegenwart von freiem Seuersioff bedingen, um wieder in
-Kohlensäure übergehen zu können, ohne welche Bedingung
-eine ununterbrochene Reihe von Pflanzenwelten nicht denkbar
-ist. ‘Dumit aber das Wasser als. solches wirken könne, mufs
-es Nüssig sein, und diefs erfordert, dafs der fragliche Welt-
-körper eine gewisse Gröfse habe, um von der Sonne erwärmt
-
-
-
-werden zu können. Kleine einzeln fahrende Meteorite müssen
-trots aller Sonnenstrahlen die Temperatur des Weltraums an-
-nehmen, indem sie wie die Spitzen der Alpen zu unbedeu-
-tend sind, um allein durch Insolation erwärmen zu können.
-Brst mit der Ausdehnung des Weltkörpers nimmt die Wärme-
-entwickelung so weit zu, dafs dadurch eine warme Atmo-
-sphäre erzeugt werden kann. Es unterstützt dieser Umstand
-die Ansicht, dafs die Meteorite nicht einzeln ihre Form un-
-genommen haben können, sondern dafs sie während ihrer
-Bildung einem gröfseren Weltkörper engehörten, auf weichem
-ähnliche Vorgänge, wie auf unserer Erde, stattfanden. "
+*) Diese Annalen 109, 346 und 349.
 
 Dafs dieser Weltkörper wirklich Wasser, vielleicht Fiufs
 und Meer, entbalten habe, geht auch aus unmittelbaren Beob-
@@ -368,12 +164,8 @@ sie ganz verschwunden. Diefs erklärt sich, wenn man au-
 nimu.t, dafs der Meteorit zum Theil aus Eis bestand, welches
 durch die in der Atmosphäre verlorene Bewegung ia Dampı
 überging und durch Abkühlung sich als eine Wolke verdich-
-
-
-
 tete. Nur langsam lösten sich die Wasserbläscheu zu durch-
-
-. sichtigem Gase auf. Feste Körper von Silicaten. oder Eisen-
+sichtigem Gase auf. Feste Körper von Silicaten. oder Eisen-
 massen konnten auch ia der feinsten Vertheilung - nicht
 ı/, Stunde lang an derselben Stelle verbleiben, wie es die
 Erscheinung that.
