@@ -24,7 +24,7 @@ _Stannern_, Mähren, gefallen 22. Mai 1808; Buchner, S. 23.
 
 _Mezo-Madaras_, Siebenbürgen, gefallen 4. Sept. 1852; Buchner, S. 82.
 
-2,411 Grm. Substanz gaben 0,024 Wasser = 0,995 pCt. Enthält metallisches Eisen.
+2,411 Grm. Substanz gaben 0,024 Wasser = 0,995 pZt. Enthält metallisches Eisen.
 
 _L'Aigle_, Normandie, gefallen am 26. April 1803. Jener berühmte Fall, welcher zuerst die französische Academie umstimmte; Buchner, S. 15.
 
@@ -142,291 +142,76 @@ Von ganz besonderer Tragweite ist die zuerst von Berzelius* im Jahre 1834 im Met
 
 *) Diese Annalen 109, 346 und 349.
 
-Dafs dieser Weltkörper wirklich Wasser, vielleicht Fiufs
-und Meer, entbalten habe, geht auch aus unmittelbaren Beob-
-achtungen hervor. Am 17. Februar 1865 wurde, etwa
-®/, Stunden nach Untergang der Sonne, ein Meteor zugleich
-‚in Bonn und Coblenz beobachtet, welches nach Westen zu
-Siegen schien. Einen Augenblick zeigte es einen feuerrothen
-Schweif, dann verlosch das Licht und der Streifen erschien,
-in grofser Höhe noch von der Sonne beleuchtet, wie eine
-weilse Wolke, die Anfangs stille stand. Nach einiger Zeit
-änderte sich die Gestalt. des Streifens, indem er durch Luft-
-züge verzerrt und zuletzt sägeartig gezuckt wurde. In Bonn
-blieben viele Leute vor dem Neuthor stehen und betrachteten
-die Erscheinung, bis sie ganz verschwunden war. Ein Major
-der Artillerie beobachtete die Erscheinung in der Nähe son
-Coblenz, und durch seinen Beruf gewöhnt an das Verfolgen
-der Bahn ainer Bombe, machte er rasch mehrere Zeichnungen
-von der Gestalt und notirte die Zeit; 8 Minuten lang war die
-Erscheinung genz deutlich und erst nach 15 Minuten war
-sie ganz verschwunden. Diefs erklärt sich, wenn man au-
-nimu.t, dafs der Meteorit zum Theil aus Eis bestand, welches
-durch die in der Atmosphäre verlorene Bewegung ia Dampı
-überging und durch Abkühlung sich als eine Wolke verdich-
-tete. Nur langsam lösten sich die Wasserbläscheu zu durch-
-sichtigem Gase auf. Feste Körper von Silicaten. oder Eisen-
-massen konnten auch ia der feinsten Vertheilung - nicht
-ı/, Stunde lang an derselben Stelle verbleiben, wie es die
-Erscheinung that.
+Dass dieser Weltkörper wirklich Wasser, vielleicht Fluss und Meer, enthalten habe, geht auch aus unmittelbaren Beobachtungen hervor. Am 17. Februar 1865 wurde, etwa 3/4 Stunden nach Untergang der Sonne, ein Meteor zugleich in Bonn und Coblenz beobachtet, welches nach Westen zu fliegen schien. Einen Augenblick zeigte es einen feuerroten Schweif, dann verlosch das Licht und der Streifen erschien, in grosser Höhe noch von der Sonne beleuchtet, wie eine weisse Wolke, die Anfangs stille stand. Nach einiger Zeit änderte sich die Gestalt des Streifens, indem er durch Luftzüge verzerrt und zuletzt sägeartig gezackt wurde. In Bonn blieben viele Leute vor dem Neuthor stehen und betrachteten die Erscheinung, bis sie ganz verschwunden war. Ein Major der Artillerie beobachtete die Erscheinung in der Nähe von Coblenz, und durch seinen Beruf gewöhnt an das Verfolgen der Bahn einer Bombe, machte er rasch mehrere Zeichnungen von der Gestalt und notirte die Zeit; 8 Minuten lang war die Erscheinung ganz deutlich und erst nach 15 Minuten war sie ganz verschwunden. Diess erklärt sich, wenn man annimmt, dass der Meteorit zum Teil aus Eis bestand, welches durch die in der Atmosphäre verlorene Bewegung in Dampf überging und durch Abkühlung sich als eine Wolke verdichtete. Nur langsam lösten sich die Wasserbläschen zu durchsichtigem Gase auf. Feste Körper von Silikaten oder Eisenmassen konnten auch in der feinsten Verteilung nicht 1/4 Stunde lang an derselben Stelle verbleiben, wie es die Erscheinung tat.
 
-Am 29. März 18438" wurde. in Oderberg eine Feuerkugel
-von der scheinbaren Größse des Mondes mit weifs-blauem
-Lichte gesehen, die sich ohne hörbares Geräusch in kleine
-Sternchen auflöste, welche sofort verschwunden. Sie zog
-‘einen starken gelben Schveif nach, der selbst nach Ver-
-schwinden des Meteors nuch in seiner ganzen Länge sichtbar
-wer und nur. sehr langsam verschwand, so dafs die Erschei-
-nung ziemlich '/, Stuude sichtbar blieb. Auch hier kann
-diese lange Dauer nur durch Wasserdampf erklärt werden.
-Nehmen wir hinzu, dafs 1833 und 1866 in den meteorischen
-Nächten des Novembers hunderttausende ven Feaermeteoren
-beobachtet wurden, ‘ohne dafs nur ein einziger auf die Erde
-gefallen ist, so müssen wir annehmen, dafs das Meer jenes
-Weltkörpers ebenfalls in kleine Theile aufgelöst wurde, die
-nun als Eisklumpen in dem leeren Weltraum herumfliegen,
-womit denn auch zusammenhängen mag, dals die Kometen in
-der Nähe der Sonne viel dünner und schwächer werden, in-
-dem nur der feuerbeständige Antheil durch das 'Perihel un-
-verdunstet hindurchgeht. Danach würde auch die Masse
-unseres Meeres einen Zuwachs erhalten, wie das Land durch
-die Meteorite.
+Am 29. März 1848 wurde in Oderberg eine Feuerkugel von der scheinbaren Grösse des Mondes mit weiss-blauem Lichte gesehen, die sich ohne hörbares Geräusch in kleine Sternchen auflöste, welche sofort verschwanden. Sie zog einen starken gelben Schweif nach, der selbst nach Verschwinden des Meteors noch in seiner ganzen Länge sichtbar war und nur sehr langsam verschwand, so dass die Erscheinung ziemlich 1/2 Stunde sichtbar blieb. Auch hier kann diese lange Dauer nur durch Wasserdampf erklärt werden. Nehmen wir hinzu, dass 1833 und 1866 in den meteorischen Nächten des Novembers hunderttausende von Feuermeteoren beobachtet wurden, ohne dass nur ein einziger auf die Erde gefallen ist, so müssen wir annehmen, dass das Meer jenes Weltkörpers ebenfalls in kleine Teile aufgelöst wurde, die nun als Eisklumpen in dem leeren Weltraum herumfliegen, womit denn auch zusammenhängen mag, dass die Kometen in der Nähe der Sonne viel dünner und schwächer werden, indem nur der feuerbeständige Anteil durch das Perihel unverdunstet hindurchgeht. Danach würde auch die Masse unseres Meeres einen Zuwachs erhalten, wie das Land durch die Meteorite.
 
-Der Astronom Faye bat in den Compt. rend. 32, 667
-(Pogg. Ann. 83, 467) seine Beobachtungen dahin formulirt,
-cafs 1) der Schweif der Meteorite Anfangs gerade und unbe-
-wegt ist; 2) daß er wenig an Glanz abnimmt, sich vor-
-schiebt und wie ciu. "euchsäule zergeht: .3) dafs er spater
-geschlängelt wird, sic) Flocken zertheilt und an Ort und
-Steile verschwindet, neu .m er mehrere Misuien gedau.r
+Der Astronom Faye hat in den Compt. rend. 32, 667 (Pogg. Ann. 83, 467) seine Beobachtungen dahin formulirt, dass 1. der Schweif der Meteorite Anfangs gerade und unbewegt ist; 2. dass er wenig an Glanz abnimmt, sich verschiebt und wie eine Rauchsäule zergeht; 3. dass er später geschlängelt wird, sich Flocken zerteilt und an Ort und Stelle verschwindet, nachdem er mehrere Minuten gedauert hat. Das Stillestehen des Schweifs beweist, dass die ganze Erscheinung in unserer Atmosphäre stattfindet, was wohl auch nicht bezweifelt worden ist.
 
+Eine andere aber ganz einzeln dastehende Erscheinung, welche das Verbrennen des Eisens in der sauerstoffhaltigen Luft der Erde bekundet, ist die folgende.
 
-bat. Das Süullestehen des Schweifs beweist, dafs die ganze
-Erscheinung in unserer Atmosphäre statifindet, was wohl auch
-nicht bezweifelt worden ist.
+Das nordamerikanische Schiff Joshua Bates, Kapitän Mac Callum, segelte am 14. November 1856 in den indischen Gewässern unter 10° 38′ südlicher Breite und 117° 43′ östlicher Länge von Greenwich, als es etwa 60 geographische Meilen von Java einen Regen von schwarzen Kügelchen empfing, die wie Bleischrot von der Sorte des Vogeldunstes herabfielen. Der Kapitän Mac Callum liess eine kleine Menge von dem Verdeck sammeln und brachte sie nach Washington zur Untersuchung an Herrn Maury mit, der einen Teil davon an Ehrenberg in Berlin sandte. Dieser berichtete darüber am 4. Juni 1858 in der Akademie. Diese Körperchen waren kugelrund, die grössten bis zu 1/2 Pariser Linie Durchmesser, dann herab bis zu 1/4 Linie. Ihre Oberfläche war schwarz, glänzend polirt; ihre Rundung so vollständig, dass sie von einem glatten Tische leicht herunterliefen. Ihre Härte war sehr bedeutend und zwischen Glasplatten liessen sie sich nur mit Mühe zerdrücken. Sie lösten sich in Salzsäure vollständig auf und wurden vom Magnete heftig angezogen. Alle hatten einen Hohlraum im Inneren, wie die Eisenfunken, die von einer in Sauerstoffgas brennenden Uhrfeder abspritzen. Es unterliegt also keinem Zweifel, dass diese Kügelchen Eisenoxydoxydul waren, und zwar durch Verbrennen von Eisen in sauerstoffhaltiger Luft entstanden.
 
-Eine undere aber ganz einzela dastehende Erscheinung,
-welche das Verbrennen des Eisens in der saucrstoffhaltigen
-Luft der Erde bekundet, ist die folgende.
+Das Herabfallen der losgelösten Teile der Meteorite bildet den schon oft bemerkten Meteorstaub, der aber auf dem Lande und dem Meere nicht wahrgenommen werden kann, und durch den merkwürdigen Zufall, dass er auf ein Schiff in grosser Entfernung vom Lande fiel, aufgefangen wurde und untersucht werden konnte. Ehrenberg erklärte diese Kügelchen für aus einem javanischen Vulkane stammend, aber ohne allen Grund, denn reines Magneteisen ist in keinem Vulkane schmelzbar und kann auch nicht bei Windstille 60 Meilen vom Lande getragen werden, wenn es prasselnd auf das Deck fiel. Heinrich Rose erklärte diese Kügelchen für das, was sie sind, für die Verbrennungsprodukte von metallischem Eisen in sauerstoffhaltiger Luft, erkennbar durch den Hohlraum, der an einem spitz ausgezogenen Ende durch Platzen sich Luft machte.
 
-Des nordamerikanische Schiff Joshua Bates, Capitän Mac
-Callum, segelte am 14. November 1856 in den indischen Ge-
-wässerr: unter 10°38° südlicher Breite und 117°43° östlicher
-Länge von Greenwich, als es eiwa 60 geographische Meilen
-vun Java einen Regen von schwarzen Kügelchen empfing, die
-‘wie Bleischrot von der Sorte des Vogeldunstes herabfielen.
+Alle im eigentlichsten Sinne in flagranti ertappten Eisenmassen zeigten diese Brandrinde von Eisenoxydoxydul, die wir am geschmiedeten Eisen als Hammerschlag bezeichnen. Ausser den oben genannten zwei Eisenmassen von Agram und Braunau ist nur noch eine in Charlotte, Discon County, Tennessee, gleich beim Fallen am 1. August 1835 aufgenommen worden. Bei den später gefundenen Meteoreisenmassen war diese Rinde längst abgefallen und durch dicke Schichten von Eisenoxydhydrat ersetzt.
 
-Der Capitän Mac Callum liefs eine kleine Menge von dem
-Verdeck sammein und brachte sie nach Washington zur Unter-
-\  Suchang an Herrn Maury mit, der einen Theil davon an
-Ehrenberg in Berlin sandte. Dieser berichtete darüber
-arm 4. Juni 1858 in der Academie. * Diese Körperchen waren
-kugelrund, die gröfsten bis zu !/, Pariser. Linie Durchmesser,
-_ dann bereb his zu !/, Linie. Ihre Oberfläche war schwarz,
-glänzend polirt; ihre Rundung so vollständig, dafs sie ven
-einer. glatten Tische leicht herunterliefen. ' Ihre Härte war
-sehr bedeutend und zwischen Glasplatten liefsen sie sich nur
-mit Mübe zerdrücken. Sie lösten sich in Salzsäure vollstän-
-dig auf und wurden vom Magnete heflig angezogen. Alle
-hatten einen Hohlraum im Inneren, wie die Eisenfunken, die
-von einer in Sauerstoflges brennenden Uhrfeder abspritzen.
-Es unierliegt also keinem Zweifel, dafs diese Kügelchen Eisen-
-oxydoxydul waren, und zwar durch Verbrennen von Eisen
-in sauerstoffbaltiger Luft entstanden.
+Wenn man Meteoreisen durchsägt, was allerdings sehr mühsam ist, dann die Fläche eben feilt und polirt und ferner dieselbe mit schwacher Salpetersäure anätzt, so zeigen sich gerade Linien, welche sich unter Winkeln von 60° durchschneiden. Diese Figuren wurden von Herrn v. Widmannstätten entdeckt und nach demselben benannt. Sie sind ein Zeichen einer Krystallisation, die nur in absoluter Ruhe und sehr langer Zeit stattfinden konnte. Blank gefeiltes Meteoreisen wird mit verdünnter Salpetersäure betupft nicht schwarz, wonach man bekanntlich Stahl und Gusseisen vom Stabeisen unterscheidet. Diess ist durch die Abwesenheit gebundenen Kohlenstoffs genügend erklärt.
 
-‚Das Herabfallen der losgelösten Theile der Meteorite
-bildet den schon oft bemerkten Meteorstnub, der aber auf dem
-Lande und dem Meere nicht wahrgenommen werden kann,
-‚and durch den ınerkwürdigen Zufall, dais ır auf ein Schiff
+Fassen wir alle diese Tatsachen zusammen, so ergiebt ich als Gesammtresultat, dass die meteorischen Silikate und Eisenmassen gleichzeitig auf nassem Wege gebildet worden sind, und zwar das Eisen durch Reduktion mittelst organischer Körper. Die Gründe zusammengefasst sind folgende:
 
+1\. dass die Silikate kleine Mengen Wasser enthalten;
 
-in grofser Entfernung vom Lande fiel, aufgefangen wurde
-und untersucht werden konnte. Ehrenberg erklärte diese
-Kügelchen ‚für aus einem javenischen Vulkane stammend, aber
-ohne allen Grund, denn reines Megneteisen ist in keinem
-Vulkane schmelzbar und kann auch nicht bei Windstille
-60 Meilen vom Lande getragen werden, weın es prasselnd
-auf des Deck fiel. Heinrich Rosg erklärte diese Kägel-
-chen für das, was sie sind, für die Verbrennungsproducte
-von metallischem Eisen in sunerstoffhaltiger Lu, erkennbar
-durch den Hohlraum, der an einem spilz ausgezogenen Ende
-durch Platzen sich Luft machte. \
+2\. dass die Silikate durch starkes Erhitzen und Schmelzen an spezifischem Gewichte verlieren;
 
-Alle im eigentlichsten Sinne in Asgranti erisppten Eisen-
-massen zeigten diese Brandrinde von Eisenoxydoxydul, die wir
-am geschmiedeten Eisen als Hammerschlag bezeichnen. Aufser
-den vben genannten zwei Eisenmassen von Agram und Brau-
-nau ist nur noch eine in Charlotte, Piscon County, Tennessee,
-gleich beim Fallen am 1. August 1835 aufgenommen worden.
-Bei den spüter gefundenen Meteoreisenmassen war diese Rinde
-längst ahgefallen und durch dicke Schichten von Risunoxyd-
-hydrat ersetzt.
+3\. dass verschiedene Silikate durcheinander krystallisirt sind, von denen sich ein Teil in Salzsäure löst, ein anderer Teil nicht, wie bei Basalten und Phonolithen;
 
-Wenn man Meteoreisen durchsägt, was allerdings sehr
-mühsam ist. dann die Flach eben feilt und peolirı und ferner
-dieselbe mit schwacher Salpetersäure anätzt, so zeigen sich
-gerade Linien, welche sich unter Winkeln von 60° durch-
-schneiden. Diese Figuren wurden von Herrn v. Widmann-
-stätten entdeckt und nach demselben benannt. Sie sind
-ein Zeichen einer Krystallisation, die nur in absoluter Ruhe
-und sehr langer Zeit stetifinden konnte. Blank gefeiltes
-Meteoreisen wird mit verdünnter Selpeiersäure betupfi nicht
-schwarz, wonach man bekanntlich Stahl und Gußseisen vom
-Stabeisen unterscheidet. Diefs ist durch die Abwesenheit ge-
-bundenen Kohlenstofls genügend erklärt.
+4\. dass der eisenoxydulhaltige Olivin grün und nicht schwarz ist;
 
-Fassen wir alle diese Thatsachen zusammen, so ergiebt
-ich als Gesammtresultat, dals die meteorischen Silicate und
+5\. dass die Brandrinde schwarz ist, verschieden von dem inneren Gehalt der Steine;
 
+6\. dass einige Meteorite organische Körper enthalten, ähnlich irdischen Kohlenwasserstoffverbindungen;
 
+7\. dass das Meteoreisen keinen chemisch gebundenen Kohlenstoff enthält, selbst wenn Graphit darin enthalten ist;
 
-disenmawen gleichzeitig ruf nassem Wege gebildet worden
-sind, und zwar das Eisen durch Reduction mittelst organischer
-Körper. Die Gründe zusammengefafst sind folgende‘ :
+8\. dass Schwefeleisen getrennt von dem Eisen in einzelnen Stücken enthalten und nicht durch die ganze Masse verteilt ist;
 
-1) dafs die Silicate kleine Mengen Wassır enthalten ;
+9\. dass der Schreibersit, jenes aus Phosphor, Eisen und Nickel bestehende Mineral, ebenfalls getrennt im Eisen enthalten ist;
 
-2) dafs die Silicate durch starkes Erhitzen und Schmelzen
-an spezifischem Gewichte verlieren ;
+10\. dass das spröde Meteoreisen durch Glühen weich wird, wenn es kein Schwefeleisen enthält;
 
-3) dafs verschiedene Silicate durcheinander khrystallisirt
-sind, von denen sich ein Theil ir Salzsäure löst, ein anderer
-Theil nicht, wie bei Basalten und Phonolithen ;
+11\. dass das kalt schmiedbare Meteoreisen, wenn es Schwefeleisen enthält, durch Schmelzen rotbrüchig wird;
 
-4) dafs der eisenoxydulhaltige Olivin grün und nicht
-schwarz ist; '
+12\. dass das Meteoreisen im sauerstofffreien Raume zur Weissglut erhitzt Wasserstoff entwickelt;
 
-5) dafs die Brandrinde schwarz ist, verschieden von dem
-inneren Gehalt der Steine;
+13\. die Widmannstätten'schen Figuren als Zeichen einer ruhigen Krystallisation;
 
-6) dafs einige Meteorite organische Körper enthalten,
-ähnlich irdischen Kohlenwasserstoffverbindungen ;
+14\. durch Deduktion erschlossen, dass das Meteoreisen kein Silizium enthalten kann, weil Kieselerde nicht durch organische Körper reduzirbar ist, und auch wirklich keins enthält.
 
-7) dafs das Meteoreisen keinen cheinisch gebundenen
-Kohlenstoff enthält, selbst wenn Graphit darin enthalten ist;
+An dieser Stelle möchte ich an die Besitzer von Meteoriten und die Kustoden der grossen Sammlungen die Bitte richten, ähnliche Untersuchungen mit diesen Naturgebilden vorzunehmen oder vornehmen zu lassen, oder im Falle denselben diess nicht genehm ist, dem Beispiele von Krantz, Gustav Rose und Prof. Tschermak zu folgen und mir kleine Stücke, Sägespäne, die in einer Sammlung doch keinen Wert haben, zukommen zu lassen, um diese Untersuchungen auszudehnen und ihre Beweiskraft zu vermehren. Eine neue Wahrheit hat mehr Wert, als Hunderte neuer aber unerklärbarer Funde.
 
-8) dafs Schwefeleisen getrennt von dem Eisen in ein-
-zelnen Stücken enthalten und nicht durch die ganze Masse
-vertheilt ist;
+Bei dieser Menge übereinstimmender Tatsachen und Zeugnisse ist es unmöglich, dass bei denselben Meteoriten andere Zeichen sollten entdeckt werden können, welche den obigen widersprächen. Nun treten wir der Frage über die Entstehung der Meteorite näher.
 
-9) dafs der Schreibersit, jenes aus Phosphor, Eisen und
-Nickel bestehende Mineral, ebenfalls getrennt im Eisen ent-
-halten ist;
+Die früher mehrmals verteidigte Ansicht, dass sie Auswürflinge des Mondes wären, an welchem man Vulkane mit Krateren zu erblicken glaubt, ist ganz unhaltber. Einmal weil die Meteorite mit den regelmässig in bestimmten Zeiten wiederkehrenden Sternschnuppenschwärmen zusammenfallen, die eine planetarische Bahn im Weltraume einnehmen; dann aber, weil aus den obigen Untersuchungen hervorgeht, dass sie gar keine feurige Bildung zeigen, also auch nicht aus einem Vulkane abstammen können. Dass solche Dinge sich sollten in der Luft gebildet haben, ist eine aus der Luft gegriffene Erklärung. Vielmehr zeigen die Bestandteile der Meteorite, der Olivin, Augit, Anorthit, die organischen Stoffe nach Analogie unserer Erde, dass diese Körper sich auf einem grösseren Planeten, der von der Sonne oder einer Sonne erwärmt war, in absoluter Ruhe und ungeheuer langen Zeiträumen nach Art der irdischen Silikate gebildet haben müssen, wobei wir allerdings ganz im Unklaren bleiben, durch welche Verhältnisse oder Vorgänge dieser Planet zertrümmert und in einzelne Stücke aufgelöst worden sei. Es musste dieser Planet auch eine grössere Wasseransammlung, wir wollen sagen, ein Meer gehabt haben, welches ebenfalls in Teile aufgelöst jetzt als Eis, wie oben entwickelt wurde, in den Meteorschwärmen und Kometen sich befindet, nachdem auch die Identität zwischen den beiden letztgenannten durch Schiaparelli nachgewiesen ist.
 
-10) dafs das spröde Meteoreisen durch Glühen weich
-wird, wenn es kein Schwefeleisen enthält;
+Von dem Sternschnuppenfall des 27. November 1872 berichten Galle in Breslau und Förster in Berlin (Pogg. Annalen 148., 172), dass es keinem Zweifel unterliege, dass derselbe aus zerstreuten, der Erde begegnenden Partikeln des Biela'schen Kometen bestanden habe, der bei seiner siebenjährigen Umlaufszeit gerade im Jahre 1872 Anfangs September durch diesen Punkt seiner Bahn und am Anfang Oktober durch seine Sonnennähe gegangen ist. Die Erde ging nämlich gerade am 27. November 1872 am Abend durch die Bahnebene des Biela'schen Kometen, und die Richtung, nach welcher die Sternschnuppen sich bewegten, stimmte fast innerhalb eines Grades mit jener überein, in welcher solche Körper, die in dieser Bahn wandeln, in die Erdatmosphäre eintreten mussten.
 
-11) dafs des kalt schmiedbare Meteorcisen, wenn es
-Schwefeleisen enthält, durch Schmelzen rothbrüchig wird;
+Es ist in der Tat auffallend, dass diejenigen Weltkörper, welche wir in die Hand nehmen und untersuchen können, nämlich die Erde und die Meteoriten, ihrer ganzen Zusammensetzung nach nicht die kleinsten Spuren einer feurigen Bildung zeigen, wobei wir die Vulkane und die Brandrinde der Meteorite als nachherige Veränderung und nicht als Bildungsmomente ansehen können.
 
-12) dafs das Meteoreisen im sauerstofffreien Raume zur
-Weifsgluth erhitzt Wasserstoff entwickelt;
+Das Abweichende in den Meteoriten gegen unsere Erde besteht darin, dass wir auf ersteren mehr Reduktionsprodukte und ausser den Erden keine vollständigen Oxyde finden. So ist in den Meteoriten kein Eisenoxyd, wohl aber metallisches Eisen, Schwefeleisen, Phosphornickeleisen vorhanden. Phosphor kommt auf der Erde nur als Phosphorsäure vor, in dem Schreibersit aber mit zwei selbst oxydirbaren Metallen verbunden. Wir müssen uns diese Verhältnisse so erklären, dass jener Planet kleiner war, wie die Erde, und dass er eine dünnere Atmosphäre, also weniger freien Sauerstoff enthalten habe.
 
-13) die Widmannstätten'schen Figuren als Zeichen
-einer ruhigen Krystallisation ;
-
-14) durch Deduction erschlossen, dafs das Meteoreisen
-kein Silicium enthalten kenn, weil Kieselerde nicht durch
-
-
-organische Körper reducirber ist, und auch wirklich keins
-enthält.
-
-An dieser Stelle möchte.ich an die Besitzer von Meteo-
-riten und die Custoden der grofsen Sammlungen die Bitte
-richten, ähnliche Untersuchungen mit diesen Naturgebilden
-vorzunehmen oder vornehmen zu lassen, oder im Falle den»
-selben diefs nicht genehm ist, dem Beispiele von Krantz,
-
-. Gustav Rose und Prof. Tschermak zu folgen und mir
-kleine Stücke, Sägespäne, die. in einer Sammlung doch keinen
-“Werth haben, zukommen zu lassen, um diese Untersuchungen
-auszudehnen und ihre Beweiskraft zu verınehren. Eine neue
-Wahrheit hat ınehr Werth, als Hunderte neuer aber uner-
-klärbarer Funde.
-“> Bei dieser Menge übereinstimmender Thatsachen und
-Zeugnisse ist es unmöglich, dafs bei denselben Meteoriten
-andere Zeichen sollten entdeckt werden können, . welche deu
-obigen widersprächen. Nun treten wir der Frage über die
-Entstebung der Meteorite näher.
-
-Die früher mehrmals vertheidigte Ansicht, dafs sie Anus-
-würflinge des Mondes wären, an welchem man Vulkane mit
-Krateren zu erblicken glaubt, ist ganz unhaltber. Einmal
-weil die Meteorite mit den tegelmäfsig in bestimmten Zeiten
-wiederkehrenden Steraschnuppenschwärmen zusammenfallen,
-die eine planetarische Babn im Weltraume einnehmen; dann
-aber, weil aus den obigen Untersuchungen hervorgeht, dafs
-sie gar keine feurige Bildung zeigen, also auch nicht aus
-einem Vulkane abstemmen können. Dafs solche Dinge sich
-soliten der Luft gebildet haben, ist eine aus der Luft ge-
-grifene Erklärung. Vielmehr zeigen die Bestandtheile der
-Mcteorite,, der Olivin, Augit, Anorthit, die organischen Stoffe
-nach Analogie unserer Erde, dafs diese Körper sich auf einem '
-gröfseren Planeten, der von der Sonne oder einer Sonne er-
-wärmt war, in absoluter Ruhe und ungeheuer iangen Zeit-
-
-
-räumen nach Art der irdischen Silicate gebildet haben müssen,
-wobei wir allerdings ganz im Unklaren bleiben, durch welche
-Verhältnisse oder Vorgänge dieser Planet zertrümmert und
-in einzelne Stücke aufgelöst worden sei. Es mufste dieser
-Planet auch eine gröfsere Wasseransammiung, wir wollen
-sagen, ein Meer-gehabt haben, welches ebenfalls in Theile
-aufgelöst jetzt eis Eis, wie oben entwickelt wurde, in den
-Meteorschwärmen und Kometen sich befindet, nachdem auch .
-die Identität zwischen den beiden letztgenannten durch Schia-
-perelti nachgewiesen ist.
-
-Von dem Sternschnuppenfall des 27. November 1872
-
-; berichten Galle in Breslau und Förster in Berlin (Pogg.
-Annslen 348, 172), dafs es keinem Zweifel unterliege, dafs
-derselbe aus zerstreuten, der Erde begagnenden Partikeln des
-Biela'schen Kometen bestanden habe, der bei seiner sieben-
-jährigen Umlaufszeit gerade im Jahre 1872 Anfangs Sep-
-
-' tember ‘durch diesen Punkt seiner Bahn und am Anfang
-October durch seine Sonnennähe gegangen ist. Die Erde ging
-nämlich. gerade am 27. November 1873 am Abend durch die
-‚Bahnebene des Biela'schen Kometen, und die Richtung, nach
-welcher die Sternschnuppen sich bewegten, stimmte fast inner-
-halb eines Grades mit jener überein, in welcher solche Kör-
-per, die in dieser Bahn wandeln, in die Erdatmosphäre ein-
-
-- treten mufsten.
-
-Es ist in der That auffallend, dafs diejenigen Weltkörper,
-welche wir in die Hand nehmen uad untersuchen können,
-nämlich die Erde und die Meteoriten, ihrer ganzen Zusammen-
-setzung nach nicht die kleinsten Spuren einer feurigen Bil-
-dung, zeigen, wobei wir die Vulkane und die Brandrinde der
-Meteorito als nachherige Veränderung und nicht als Bildungs-
-momente ansehen können.
-
-Das Abweichende in den Meteoriten gegen unsere Erde
-"besteht darin, dafs wir auf ersteren mehr Reductionsproducte
-und aufser den Erden keine vollständigen ‚Oxvde finden. So
-
-ist in den Meteoriten kein Eisenoxyd, wohl aber metallisches
-Eisen, S:hwefeleisen, Phosphornickeleisen vorhanden. Phos-
-phor kommt auf der Erde nur als Phosphorsäure vor, ih
-dem Schreibersit aber ınit zwei selbst oxydirbaren Metallen
-verbunden. Wir müssen uns diese Verhältnisse so erklären,
-dafs jener Plaret kleiner war, wie die Erde, und dafs er eine
-dünnereAtmosphärv, also weniger freien Sauersloß onthalten habe.
-Die Gröfse oder Masse der Atmosphäre kann nicht in
-einem einfachen Verhältnisse zur Messe des Weltkörpers
-stehen, sondern in einem sehr verwickelten, von der ubsoluten
-Gröfse und Dichtbeit derselben abhängigen. Ein Weltkörper
+Die Grösse oder Masse der Atmosphäre kann nicht in
+einem einfachen Verhältnisse zur Masse des Weltkörpers
+stehen, sondern in einem sehr verwickelten, von der absoluten
+Grösse und Dichtheit derselben abhängigen. Ein Weltkörper
 von einem Meter Durchmesser und vielleicht auch einer Meile
 kann aus dem Vacuum des Weltalls gar keine Atmosphäre
-anziehen, und daher ınag es auch kommen, dafs der Mond
-uns keine Atınosphäre zu haben scheint, wenu wir erwarten,
-dafs sie im Verhältnifs seiner Masse zu jener der Erde sei.
-Nach dem Verhältnifs der Schwere auf der Öberläche des
-Mondes und der Erde würde der Mond eine Alınosphäre von
-121,6 MM. Quecksilberdruck haben; er hat uber eine viel
+anziehen, und daher mag es auch kommen, dass der Mond
+uns keine Atmosphäre zu haben scheint, wenn wir erwarten,
+dass sie im Verhältniss seiner Masse zu jener der Erde sei.
+Nach dem Verhältniss der Schwere auf der Oberfläche des
+Mondes und der Erde würde der Mond eine Atmosphäre von
+121,6 MM. Quecksilberdruck haben; er hat aber eine viel
 kleinere, deren Wirkung wir nicht mehr bei Sternbedeckungen
 wahrnehmen können, obgleich sie sicherlich nicht gleich Null
 ist, wie gewöhnlich in astronomischen Werken gelehrt wird.
