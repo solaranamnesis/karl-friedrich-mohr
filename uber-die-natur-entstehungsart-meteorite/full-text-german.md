@@ -200,106 +200,24 @@ Es ist in der Tat auffallend, dass diejenigen Weltkörper, welche wir in die Han
 
 Das Abweichende in den Meteoriten gegen unsere Erde besteht darin, dass wir auf ersteren mehr Reduktionsprodukte und ausser den Erden keine vollständigen Oxyde finden. So ist in den Meteoriten kein Eisenoxyd, wohl aber metallisches Eisen, Schwefeleisen, Phosphornickeleisen vorhanden. Phosphor kommt auf der Erde nur als Phosphorsäure vor, in dem Schreibersit aber mit zwei selbst oxydirbaren Metallen verbunden. Wir müssen uns diese Verhältnisse so erklären, dass jener Planet kleiner war, wie die Erde, und dass er eine dünnere Atmosphäre, also weniger freien Sauerstoff enthalten habe.
 
-Die Grösse oder Masse der Atmosphäre kann nicht in
-einem einfachen Verhältnisse zur Masse des Weltkörpers
-stehen, sondern in einem sehr verwickelten, von der absoluten
-Grösse und Dichtheit derselben abhängigen. Ein Weltkörper
-von einem Meter Durchmesser und vielleicht auch einer Meile
-kann aus dem Vacuum des Weltalls gar keine Atmosphäre
-anziehen, und daher mag es auch kommen, dass der Mond
-uns keine Atmosphäre zu haben scheint, wenn wir erwarten,
-dass sie im Verhältniss seiner Masse zu jener der Erde sei.
-Nach dem Verhältniss der Schwere auf der Oberfläche des
-Mondes und der Erde würde der Mond eine Atmosphäre von
-121,6 MM. Quecksilberdruck haben; er hat aber eine viel
-kleinere, deren Wirkung wir nicht mehr bei Sternbedeckungen
-wahrnehmen können, obgleich sie sicherlich nicht gleich Null
-ist, wie gewöhnlich in astronomischen Werken gelehrt wird.
-Gehen wir noch einen Schritt weiter, so können wir die An-
-sicht fussen, dafs die Meteorite, die Kometen und die bis jetzt
-entdeckten 150 + x Plancioiden zusammen Stücke jenes
-zwischen Mars und Jupiter fehlenden gröfseren Planeten sind.
-Das spezilische Gewicht der Planeten nimmt vom Mercur aa
-ab, obgleich nicht regelmäfsig. Wir haben, Wasser = 1 ge-
-setzt, die Dichte
-des Mercur . . = 6,7
-der Venus . . == 5,0
-der Erde . . . = 5,6
-des Mars . . . = 53
-des Jupiter . . = 1,25
-des Satum . . = 0,72
-des Uranus . . ==' 0,92.
+Die Grösse oder Masse der Atmosphäre kann nicht in einem einfachen Verhältnisse zur Masse des Weltkörpers stehen, sondern in einem sehr verwickelten, von der absoluten Grösse und Dichtheit derselben abhängigen. Ein Weltkörper von einem Meter Durchmesser und vielleicht auch einer Meile kann aus dem Vacuum des Weltalls gar keine Atmosphäre anziehen, und daher mag es auch kommen, dass der Mond uns keine Atmosphäre zu haben scheint, wenn wir erwarten, dass sie im Verhältniss seiner Masse zu jener der Erde sei. Nach dem Verhältniss der Schwere auf der Oberfläche des Mondes und der Erde würde der Mond eine Atmosphäre von 121,6 MM. Quecksilberdruck haben; er hat aber eine viel kleinere, deren Wirkung wir nicht mehr bei Sternbedeckungen wahrnehmen können, obgleich sie sicherlich nicht gleich Null ist, wie gewöhnlich in astronomischen Werken gelehrt wird. Gehen wir noch einen Schritt weiter, so können wir die Ansicht fassen, dass die Meteorite, die Kometen und die bis jetzt entdeckten 150 + x Planetoïden zusammen Stücke jenes zwischen Mars und Jupiter fehlenden grösseren Planeten sind. Das spezifische Gewicht der Planeten nimmt vom Mercur an ab, obgleich nicht regelmässig. Wir haben, Wasser = 1 gesetzt, die Dichte
 
+|     |         |       |
+|-----|---------|-------|
+| des | Mercur  | 6,7   |
+| der | Venus   | 5,0   |
+| der | Erde    | 5,6   |
+| des | Mars    | 5,3   |
+| des | Jupiter | 1,25  |
+| des | Satum   | 0,72  |
+| des | Uranus  | 0,92. |
 
-Nehmen ‘wir nun für den: zwischen Mars und Jupiter
-fetlenden' Planeten : das arithmetische Mittel, so haben wir
-53 + 1,28 5 125 _ 3,275, welches das spezifsche Gewicht der
-meisten Meteorite ist, namentlich der Steinmeteorite, von denen
-nach Reichenbach 100 auf eine Eisenmasso kommen.
+Nehmen wir nun für den zwischen Mars und Jupiter fehlenden Planeten das arithmetische Mittel, so haben wir (5,3 + 1,25)/2 = 3,275, welches das spezifsche Gewicht der meisten Meteorite ist, namentlich der Steinmeteorite, von denen nach Reichenbach 100 auf eine Eisenmasse kommen.
 
-‚Die kleinen Planeten. haben meist eine sehr excentrische
+Die kleinen Planeten haben meist eine sehr exzentrische Bahn und besitzen auch die grösste Neigung auf die Ekliptik, bei der Pallas 34° 35′, und es ist sehr denkbar, dass noch kleinere Stücke, welche wir nicht mehr erkennen können, noch weiter von diesen Verhältnissen abweichen. Die Zahl dieser Planetoïden kann eine ganz ungeheuer grosse sein, von denen nur die grössten von der Erde aus gesehen werden können. Wenn die Vesta nur 66 Meilen Durchmesser hat, und Juno 80 Meilen, so werden Stücke von der Grösse von London oder Berlin gar nicht mehr sichtbar sein. Auch die Masse aller dieser Körper bietet keine Schwierigkeit dar, sie als Teile eines anständigen Planeten von der Grösse der Venus oder des Mars anzusehen. Die Kometen haben sich noch gar nicht als ponderirend zu erkennen gegeben, was sie offenber sind, obwohl nicht messbar oder erkennbar.
 
-. Bahn und besitzen auch die gröfste Neigung auf die Ekliptik,
-bei der Pallas.34°35°, und es ist sehr denkbar, dafs noch
-kleinere Stücke, welche wir nicht mehr erkennen können,
-noch weiter von diesen Verhältnissen abweichen. Die: Zehl
-dieser Planetoiden kann eine ganz ungeheuer grofse sein,
-von denen nur die gröfsten von der Erde aus gesehen wer-
-den können. Wenn die Vesta nur 66 Meilen Durchmesser
-het, und Juno 80: Meilen, so werden Stücke von der Gröfse
-von London oder Berlin gar nicht mehr sichtber sein. Auch
-die Masse aller dieser Körper bietet keine Schwierigkeit dar,
-sie aly Theile eines anständigen Planeten von der Gröfse der .
-Venus oder des Mars anzuschen. Die Kometen haben sich
+Ich kann dashalb auch nicht der Ansicht von Jul. Robert Meyer, dem Entdecker des mechanischen Wärmeäquivalentes, beipflichten, welcher in dem Hineinstürzen der Meteorite in die Sonne den Ersatz für die durch Ausstrahlung verloren gehende Wärme ansieht, welcher Ansicht auch noch andere Forscher, wie Helmholtz, beigetreten sind. Die Sonne kann in einer unendlich grossen, mit leuchtenden Sonnen gefüllten Welt nichts verlieren, was sie nicht in jedem Augenblicke von diesen zurückempfinge, da der leere Zwischenraum der Welt schon seit unendlichen Zeiten mit jener Summe von Strahlen gefüllt ist, die er überhaupt aufnehmen kann. Die Summe der Meteorite als Masse ist auf jeden Fall eine endliche und im Vergleich zur Sonne eine kleine und könnte nur für eine endliche Zeit ausreichen. Was sollte aber aus der Sonne werden, wenn nun allmälig alle Meteorite in dieselbe hineingefallen wären und kein Ersatz mehr stattfände. Alle Versuche, die Sonne nach Art einer Lampe zu nähren, durch einen Verbrennungsprozess und Zufuhr neuer Nahrung, können bei der Unendlichkeit der Welt nach Zeit und Raum zu keinem Ziele führen. Das Princip der Erhaltung der Kraft ist allein hinreichend, die Sonne warm und leuchtend zu halten.
 
-. noch gar nicht als. ponderirend zu erkennen gegeben, was
-sie offenber sind, obwohl nicht mefsbar oder erkennbar.
+Hier ist auch noch einer Erscheinung Erwähnung zu tun, welche sich bereits mehremal ereignet hat, dass nämlich das Licht der Sonne vorübergehend so geschwächt wurde, dass man die Sterne am Mittage sehen konnte. Es ereignete sich diess einmal im Jahre 1547 um die Zeit der Schlacht von Mühlberg. Die Erscheinung dauerte drei Tage. Schon Keppler schrieb sie der Dazwischenlagerung einer Materia cometica zu. Chladni erklärt sie aus dem Vorübergang meteoritischer Massen. Wir sind heute in der Lage beide Erklärungen zusammenzufassen, indem wir die Kometen als Meteoritenschwärme betrachten.  Ähnliche Erscheinungen werden aus den Jahren 1090 und 1208 gemeldet, von denen die erste 3, die zweite 6 Stunden dauerte.
 
-Ich kann dashalb auch nicht der Ansicht von Jul.
-Robert Meyer, dem Entdecker des mechanischen Wärme-
-äquivalentes, beipfichten, welcher in dem Hineinstürzen der
-Meteorite in die Sonne den Ersatz für die durch Ausstrah-
-lung verloren gehende Wärme ansieht, welcher Ansicht auch
-noch andere Forscher, wie Helmholtz, beigetreten sind.
-Die' Sonne kann in einer unendlich grofsen, mit leuchtenden
-Sonnen gefüllten Welt nichts verlieren, was sie nicht in jedem
-Augenblicke von diesen zurückempfinge, da der leere Zwi-
-schenraumn der Welt schon seit unendlichen Zeiten ınit jener
-Summe von Strahlen gefüllt ist, die er überhaupt aufnehmen
-kann. Die Summe der Meteorite als Masse ist auf jeden Fall
-
-
-eine endliche und im Vergleich zur Sonne eine kleine und
-könnte nur für eine endliche Zeit ausreichen. Was sollte
-aber aus der Sonne werden, wenn nun allmälig alle Meteorite
-m dieselbe hineingefallen wären und kein Ersatz mehr stal-
-fände. Alle Versuche, die Sonne nach Art einer Lampe zu
-nähren, durch einen Verbrennungsprocefs und Zufahr neuer
-Nahrung, können bei der Unendlichkeit der Welt nach Zeit und
-Raum zu keinem Ziele führen. Das Prineip der Erhaltung
-der Kraft ist allein hinreichend, die Sonne warm und leuch-
-tend zu halten. .
-Rier- ist such noch einer Erscheinung Erwähnung zu
-. kon, welche sich bereits mehremal ereignet hat, dafs nämlich
-des Licht der Sonne vorübergehend so geschwächt wurde,.
-defs men die Sterne am Mittage.sehen konnte. Es ereignete
-sich diefs einmal im Jahre 1547 um die Zeit der Schlacht von
-‚, Mühlberg. Die Erscheinung dauerte drei Tage. Schon
-Keppler schrieb sie der Dazwischenlagerung ciner Materia
-* cometica zu. Chladni. erklärt sie aus dem Vorübergang
-meteoritischer Massen. Wir sind heute in der Lage beide
-Erklärungen zusammenzufassen, indem wir die Kometen als \
-Meteoritenschwärme betrachten.  Aehnliche Erscheinungen
-werden sus den Jahren 1090 und 1208 gemeldet, von denen
-die erste 3, die zweile 6 Stunden dauerte.
-
-Messier berichtet, dafs er am 17. Juni 1777 um Mittag
-während 5 Minuten vor der Sonne eine ungeheuere Anzahl
-schwarzer Punkte habe vorüberziehen sehen. Zwei andere
-
-. Verdunkelangen der Sonne werden vom Anfang Februar 1106
-und vom 12. Mai 1706 berichtet, wo im letzten Falle Vormittags
-um 30 Uhr eine solche Dunkelheit eintrat, dafs die Fledermäuse
-zu fliegen anfingen und man Kerzen habe anzünden müssen.
-Auch diese Vorgänge lassen sich in keiner anderen Weise'
-erklären (Arago, Astronomie 4, 321).
+Messier berichtet, dass er am 17. Juni 1777 um Mittag während 5 Minuten vor der Sonne eine ungeheuere Anzahl schwarzer Punkte habe vorüberziehen sehen. Zwei andere Verdunkelungen der Sonne werden vom Anfang Februar 1106 und vom 12. Mai 1706 berichtet, wo im letzten Falle Vormittags um 10 Uhr eine solche Dunkelheit eintrat, dass die Fledermäuse zu fliegen anfingen und man Kerzen habe anzünden müssen. Auch diese Vorgänge lassen sich in keiner anderen Weise erklären (Arago, Astronomie 4., 321).
