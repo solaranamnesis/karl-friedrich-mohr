@@ -16,7 +16,7 @@ Nach diesem Resultat war es wahrscheinlich, dass die steinigen Meteorite ebenfal
 
 Ich legte einen besonderen Wert darauf, das Wasser jedesmal als tropfbar-flüssig zu sehen. Zu dem Zwecke wurde eine an einem Ende zugeschmolzene Glasröhre heiß ausgetrocknet und dann genau gewogen; sodann wurde der Meteorstein in kleinen Stücken, nachdem er über Nacht unter der Chlorcalciumglocke gestanden, eingebracht und das Gewicht des Ganzen bestimmt; dann wurde allmälig bis zum Glühen erhitzt, wobei sich das Wasser in der horizontal liegenden Röhre deutlich als Tropfen ansetzte. Es wurde nun die ganze Glasröhre erwärmt und durch eine eingesteckte Glasröhre das Wasser ausgesaugt und wieder gewogen. Daraus ergab sich der Wassergehalt, der dann in Prozente umgerechnet wurde.
 
-Über die näheren Details, Analysen und Literatur verweise ich auf die verdienstvolle Zusammenstellung des Materials von Dr. Otto Buchner, in seiner Schrift "die Meteoriten in Sammlungen, Leipzig 1863."
+Über die näheren Details, Analysen und Literatur verweise ich auf die verdienstvolle Zusammenstellung des Materials von Dr. Otto Buchner, in seiner Schrift „die Meteoriten in Sammlungen, Leipzig 1863.“
 
 _Stannern_, Mähren, gefallen 22. Mai 1808; Buchner, S. 23.
 
