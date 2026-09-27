@@ -7,4 +7,4 @@ Public Domain Works by Karl Friedrich Mohr (1806-1879).
 English - Plain Text  
 English - PDF  
 [German - Plain Text](uber-die-natur-entstehungsart-meteorite/full-text-german.md) | German - (GFM) Plain Text  
-German - PDF | Biolinum | Fraktur | Schwabacher  
+[German - PDF](https://cdn.solaranamnesis.com/KarlMohr/natur-meteorite/mohr-natur-meteorite-1875-german.pdf) | [Biolinum](https://cdn.solaranamnesis.com/KarlMohr/natur-meteorite/mohr-natur-meteorite-1875-german-biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/KarlMohr/natur-meteorite/mohr-natur-meteorite-1875-german-atkinson.pdf) | [Kerkis](https://cdn.solaranamnesis.com/KarlMohr/natur-meteorite/mohr-natur-meteorite-1875-german-kerkis.pdf)  
